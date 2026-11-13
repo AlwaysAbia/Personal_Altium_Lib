@@ -1,0 +1,3454 @@
+{
+ "Buttons_and_Switches|Push_Button": {
+  "lib": "Buttons_and_Switches",
+  "name": "Push_Button",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 8.0,
+  "span": [
+   8.0,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 2,
+  "height": "55.1181mil",
+  "used": [
+   "TS-101-S26"
+  ],
+  "desc": "Chip Resistor, 2-Leads, Body 5,20x3,30mm, IPC Medium Density"
+ },
+ "Communication|QFN24-6X6_MC_MCH": {
+  "lib": "Communication",
+  "name": "QFN24-6X6_MC_MCH",
+  "pads": 25,
+  "uniq": 25,
+  "smd": 25,
+  "tht": 0,
+  "pitch": 0.5,
+  "span": [
+   4.01,
+   4.01
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "LAN8720AI-CP-TR"
+  ],
+  "desc": ""
+ },
+ "Communication|U.FL-Antenna": {
+  "lib": "Communication",
+  "name": "U.FL-Antenna",
+  "pads": 3,
+  "uniq": 3,
+  "smd": 3,
+  "tht": 0,
+  "pitch": 2.95,
+  "span": [
+   2.95,
+   1.55
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "BWU.FL-IPEX1"
+  ],
+  "desc": ""
+ },
+ "Communication|XCVR_EC200AEUHA-N06-SNASA": {
+  "lib": "Communication",
+  "name": "XCVR_EC200AEUHA-N06-SNASA",
+  "pads": 144,
+  "uniq": 144,
+  "smd": 144,
+  "tht": 0,
+  "pitch": 1.3,
+  "span": [
+   31.5,
+   28.5
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "102.3622mil",
+  "used": [
+   "EC200AEUHA-N06-SNASA"
+  ],
+  "desc": ""
+ },
+ "Communication|XCVR_EG21-G": {
+  "lib": "Communication",
+  "name": "XCVR_EG21-G",
+  "pads": 132,
+  "uniq": 132,
+  "smd": 132,
+  "tht": 0,
+  "pitch": 1.3,
+  "span": [
+   30.25,
+   27.25
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "102.3622mil",
+  "used": [
+   "EG21-G"
+  ],
+  "desc": ""
+ },
+ "Communication|XCVR_EG915NEUAG-N06-SGNSA": {
+  "lib": "Communication",
+  "name": "XCVR_EG915NEUAG-N06-SGNSA",
+  "pads": 126,
+  "uniq": 126,
+  "smd": 126,
+  "tht": 0,
+  "pitch": 1.7,
+  "span": [
+   18.25,
+   21.95
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "102.3622mil",
+  "used": [
+   "EG915NEUAG-N06-SGNSA"
+  ],
+  "desc": ""
+ },
+ "Connectors|A-SMA-KWE-15.1A": {
+  "lib": "Connectors",
+  "name": "A-SMA-KWE-15.1A",
+  "pads": 5,
+  "uniq": 5,
+  "smd": 0,
+  "tht": 5,
+  "pitch": 5.08,
+  "span": [
+   5.08,
+   5.08
+  ],
+  "holes": [
+   1.5,
+   1.7
+  ],
+  "bodies": 2,
+  "height": "188.9764mil",
+  "used": [
+   "A-SMA-KWE-15.1A"
+  ],
+  "desc": "1 Inner Bore SMA Board Side Elbow 6GHz 50O 5.35mm Through Hole Coaxial Connector (RF) Adapters RoHS"
+ },
+ "Connectors|BH-18650-THR": {
+  "lib": "Connectors",
+  "name": "BH-18650-THR",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 0,
+  "tht": 2,
+  "pitch": 72.3,
+  "span": [
+   72.3,
+   0.0
+  ],
+  "holes": [
+   1.9
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "BH-18650-A5BJ001-2D"
+  ],
+  "desc": ""
+ },
+ "Connectors|CONGREEN_1X8_3.81": {
+  "lib": "Connectors",
+  "name": "CONGREEN_1X8_3.81",
+  "pads": 8,
+  "uniq": 8,
+  "smd": 0,
+  "tht": 8,
+  "pitch": 3.81,
+  "span": [
+   26.67,
+   0.0
+  ],
+  "holes": [
+   1.2
+  ],
+  "bodies": 19,
+  "height": "188.9764mil",
+  "used": [
+   "CON_TB_1x8_3.81mm_RA"
+  ],
+  "desc": "SOIC, 100-Leads, Body 64,17x3,05mm, Pitch 1,27mm, IPC Medium Density"
+ },
+ "Connectors|CONGREEN_1X8_3.81 - Straight": {
+  "lib": "Connectors",
+  "name": "CONGREEN_1X8_3.81 - Straight",
+  "pads": 8,
+  "uniq": 8,
+  "smd": 0,
+  "tht": 8,
+  "pitch": 3.81,
+  "span": [
+   26.67,
+   0.0
+  ],
+  "holes": [
+   1.2
+  ],
+  "bodies": 11,
+  "height": "188.9764mil",
+  "used": [
+   "CON_TB_1x8_3.81mm_ST"
+  ],
+  "desc": "Straight Pin 3.81MM Pitch green connector"
+ },
+ "Connectors|CONGREEN_1x2_3.81": {
+  "lib": "Connectors",
+  "name": "CONGREEN_1x2_3.81",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 0,
+  "tht": 2,
+  "pitch": 3.81,
+  "span": [
+   3.81,
+   0.0
+  ],
+  "holes": [
+   1.2
+  ],
+  "bodies": 7,
+  "height": "188.9764mil",
+  "used": [
+   "CON_TB_1x2_3.81mm_RA"
+  ],
+  "desc": ""
+ },
+ "Connectors|CONGREEN_1x2_5.08": {
+  "lib": "Connectors",
+  "name": "CONGREEN_1x2_5.08",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 0,
+  "tht": 2,
+  "pitch": 5.08,
+  "span": [
+   5.08,
+   0.0
+  ],
+  "holes": [
+   1.5
+  ],
+  "bodies": 8,
+  "height": "188.9764mil",
+  "used": [
+   "CON_TB_1x2_5.08mm_RA"
+  ],
+  "desc": ""
+ },
+ "Connectors|CONGREEN_1x3_3.81": {
+  "lib": "Connectors",
+  "name": "CONGREEN_1x3_3.81",
+  "pads": 3,
+  "uniq": 3,
+  "smd": 0,
+  "tht": 3,
+  "pitch": 3.81,
+  "span": [
+   7.62,
+   0.0
+  ],
+  "holes": [
+   1.2
+  ],
+  "bodies": 9,
+  "height": "188.9764mil",
+  "used": [
+   "CON_TB_1x3_3.81mm_RA"
+  ],
+  "desc": "SOIC, 100-Leads, Body 64,17x3,05mm, Pitch 1,27mm, IPC Medium Density"
+ },
+ "Connectors|CONGREEN_1x4_3.81": {
+  "lib": "Connectors",
+  "name": "CONGREEN_1x4_3.81",
+  "pads": 4,
+  "uniq": 4,
+  "smd": 0,
+  "tht": 4,
+  "pitch": 3.81,
+  "span": [
+   11.43,
+   0.0
+  ],
+  "holes": [
+   1.2
+  ],
+  "bodies": 11,
+  "height": "188.9764mil",
+  "used": [
+   "CON_TB_1x4_3.81mm_RA"
+  ],
+  "desc": "SOIC, 100-Leads, Body 64,17x3,05mm, Pitch 1,27mm, IPC Medium Density"
+ },
+ "Connectors|CONGREEN_1x6_3.81": {
+  "lib": "Connectors",
+  "name": "CONGREEN_1x6_3.81",
+  "pads": 6,
+  "uniq": 6,
+  "smd": 0,
+  "tht": 6,
+  "pitch": 3.81,
+  "span": [
+   19.05,
+   0.0
+  ],
+  "holes": [
+   1.2
+  ],
+  "bodies": 15,
+  "height": "188.9764mil",
+  "used": [
+   "CON_TB_1x6_3.81mm_RA"
+  ],
+  "desc": "SOIC, 100-Leads, Body 64,17x3,05mm, Pitch 1,27mm, IPC Medium Density"
+ },
+ "Connectors|CONGREEN_1x7_3.81": {
+  "lib": "Connectors",
+  "name": "CONGREEN_1x7_3.81",
+  "pads": 7,
+  "uniq": 7,
+  "smd": 0,
+  "tht": 7,
+  "pitch": 3.81,
+  "span": [
+   22.86,
+   0.0
+  ],
+  "holes": [
+   1.2
+  ],
+  "bodies": 17,
+  "height": "188.9764mil",
+  "used": [
+   "CON_TB_1x7_3.81mm_RA"
+  ],
+  "desc": ""
+ },
+ "Connectors|CONGREEN_1x9_3.81": {
+  "lib": "Connectors",
+  "name": "CONGREEN_1x9_3.81",
+  "pads": 9,
+  "uniq": 9,
+  "smd": 0,
+  "tht": 9,
+  "pitch": 3.81,
+  "span": [
+   30.48,
+   0.0
+  ],
+  "holes": [
+   1.2
+  ],
+  "bodies": 21,
+  "height": "188.9764mil",
+  "used": [
+   "CON_TB_1x9_3.81mm_RA"
+  ],
+  "desc": "SOIC, 100-Leads, Body 64,17x3,05mm, Pitch 1,27mm, IPC Medium Density"
+ },
+ "Connectors|CON_1Pin": {
+  "lib": "Connectors",
+  "name": "CON_1Pin",
+  "pads": 1,
+  "uniq": 1,
+  "smd": 0,
+  "tht": 1,
+  "pitch": 0,
+  "span": [
+   0.0,
+   0.0
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 2,
+  "height": "0mil",
+  "used": [
+   "CON_1x1_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1X14_2.54MM_THT_F": {
+  "lib": "Connectors",
+  "name": "CON_1X14_2.54MM_THT_F",
+  "pads": 14,
+  "uniq": 14,
+  "smd": 0,
+  "tht": 14,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   33.02
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 2,
+  "height": "0mil",
+  "used": [
+   "CON_1x14_2.54mm_THT (alt)"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1X14_2.54MM_THT_F_Bot_Entry": {
+  "lib": "Connectors",
+  "name": "CON_1X14_2.54MM_THT_F_Bot_Entry",
+  "pads": 28,
+  "uniq": 14,
+  "smd": 14,
+  "tht": 14,
+  "pitch": 1.78,
+  "span": [
+   3.56,
+   33.02
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 2,
+  "height": "0mil",
+  "used": [
+   "CON_1x14_2.54mm_THT_BotEntry"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1X14_2.54MM_THT_M": {
+  "lib": "Connectors",
+  "name": "CON_1X14_2.54MM_THT_M",
+  "pads": 14,
+  "uniq": 14,
+  "smd": 0,
+  "tht": 14,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   33.02
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 15,
+  "height": "0mil",
+  "used": [
+   "CON_1x14_2.54mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x2_2.54MM_THT_F": {
+  "lib": "Connectors",
+  "name": "CON_1x2_2.54MM_THT_F",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 0,
+  "tht": 2,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   2.54
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 1,
+  "height": "78.7402mil",
+  "used": [
+   "CON_1x2_2.54mm_THT (alt)",
+   "CON_1x2_2.54mm_THT_ALT (alt)"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x2_2.54MM_THT_M": {
+  "lib": "Connectors",
+  "name": "CON_1x2_2.54MM_THT_M",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 0,
+  "tht": 2,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   2.54
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 3,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x2_2.54mm_THT",
+   "CON_1x2_2.54mm_THT_ALT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x3_2.54MM_THT_F": {
+  "lib": "Connectors",
+  "name": "CON_1x3_2.54MM_THT_F",
+  "pads": 3,
+  "uniq": 3,
+  "smd": 0,
+  "tht": 3,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   5.08
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 1,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x3_2.54mm_THT (alt)"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x3_2.54MM_THT_M": {
+  "lib": "Connectors",
+  "name": "CON_1x3_2.54MM_THT_M",
+  "pads": 3,
+  "uniq": 3,
+  "smd": 0,
+  "tht": 3,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   5.08
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 4,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x3_2.54mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x4_2.54MM_THT_F": {
+  "lib": "Connectors",
+  "name": "CON_1x4_2.54MM_THT_F",
+  "pads": 4,
+  "uniq": 4,
+  "smd": 0,
+  "tht": 4,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   7.62
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 1,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x4_2.54mm_THT (alt)"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x4_2.54MM_THT_F_Bot_Entry": {
+  "lib": "Connectors",
+  "name": "CON_1x4_2.54MM_THT_F_Bot_Entry",
+  "pads": 8,
+  "uniq": 4,
+  "smd": 4,
+  "tht": 4,
+  "pitch": 1.78,
+  "span": [
+   3.56,
+   7.62
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 1,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x4_2.54mm_THT_BotEntry"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x4_2.54MM_THT_M": {
+  "lib": "Connectors",
+  "name": "CON_1x4_2.54MM_THT_M",
+  "pads": 4,
+  "uniq": 4,
+  "smd": 0,
+  "tht": 4,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   7.62
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 5,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x4_2.54mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x5_2.54MM_THT_F": {
+  "lib": "Connectors",
+  "name": "CON_1x5_2.54MM_THT_F",
+  "pads": 5,
+  "uniq": 5,
+  "smd": 0,
+  "tht": 5,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   10.16
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 1,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x5_2.54mm_THT (alt)"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x5_2.54MM_THT_M": {
+  "lib": "Connectors",
+  "name": "CON_1x5_2.54MM_THT_M",
+  "pads": 5,
+  "uniq": 5,
+  "smd": 0,
+  "tht": 5,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   10.16
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 6,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x5_2.54mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x6_2.54MM_THT_F": {
+  "lib": "Connectors",
+  "name": "CON_1x6_2.54MM_THT_F",
+  "pads": 6,
+  "uniq": 6,
+  "smd": 0,
+  "tht": 6,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   12.7
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 1,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x6_2.54mm_THT (alt)"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x6_2.54MM_THT_M": {
+  "lib": "Connectors",
+  "name": "CON_1x6_2.54MM_THT_M",
+  "pads": 6,
+  "uniq": 6,
+  "smd": 0,
+  "tht": 6,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   12.7
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 7,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x6_2.54mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x7_2.54MM_THT_F": {
+  "lib": "Connectors",
+  "name": "CON_1x7_2.54MM_THT_F",
+  "pads": 7,
+  "uniq": 7,
+  "smd": 0,
+  "tht": 7,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   15.24
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 1,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x7_2.54mm_THT (alt)"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x7_2.54MM_THT_M": {
+  "lib": "Connectors",
+  "name": "CON_1x7_2.54MM_THT_M",
+  "pads": 7,
+  "uniq": 7,
+  "smd": 0,
+  "tht": 7,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   15.24
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 8,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x7_2.54mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x8_2.54MM_THT_F": {
+  "lib": "Connectors",
+  "name": "CON_1x8_2.54MM_THT_F",
+  "pads": 8,
+  "uniq": 8,
+  "smd": 0,
+  "tht": 8,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   17.78
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 1,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x8_2.54mm_THT (alt)"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_1x8_2.54MM_THT_M": {
+  "lib": "Connectors",
+  "name": "CON_1x8_2.54MM_THT_M",
+  "pads": 8,
+  "uniq": 8,
+  "smd": 0,
+  "tht": 8,
+  "pitch": 2.54,
+  "span": [
+   0.0,
+   17.78
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 9,
+  "height": "55.1181mil",
+  "used": [
+   "CON_1x8_2.54mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x10_4.2mm_THT_F": {
+  "lib": "Connectors",
+  "name": "CON_2x10_4.2mm_THT_F",
+  "pads": 20,
+  "uniq": 20,
+  "smd": 0,
+  "tht": 20,
+  "pitch": 4.2,
+  "span": [
+   4.2,
+   37.8
+  ],
+  "holes": [
+   1.7
+  ],
+  "bodies": 21,
+  "height": "0mil",
+  "used": [
+   "CON_2x10_4.20mm_THT_F"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x12_4.2mm_THT_F": {
+  "lib": "Connectors",
+  "name": "CON_2x12_4.2mm_THT_F",
+  "pads": 24,
+  "uniq": 24,
+  "smd": 0,
+  "tht": 24,
+  "pitch": 4.2,
+  "span": [
+   4.2,
+   46.2
+  ],
+  "holes": [
+   1.7
+  ],
+  "bodies": 25,
+  "height": "0mil",
+  "used": [
+   "CON_2x12_4.20mm_THT_F"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x13_2.54MM_THT_F": {
+  "lib": "Connectors",
+  "name": "CON_2x13_2.54MM_THT_F",
+  "pads": 26,
+  "uniq": 26,
+  "smd": 0,
+  "tht": 26,
+  "pitch": 2.54,
+  "span": [
+   30.5,
+   2.54
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 1,
+  "height": "55.1181mil",
+  "used": [
+   "CON_2x13_2.54mm_THT (alt)"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x13_2.54MM_THT_M": {
+  "lib": "Connectors",
+  "name": "CON_2x13_2.54MM_THT_M",
+  "pads": 26,
+  "uniq": 26,
+  "smd": 0,
+  "tht": 26,
+  "pitch": 2.54,
+  "span": [
+   30.5,
+   2.54
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 27,
+  "height": "55.1181mil",
+  "used": [
+   "CON_2x13_2.54mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x13_2.54MM_THT_M_LONG": {
+  "lib": "Connectors",
+  "name": "CON_2x13_2.54MM_THT_M_LONG",
+  "pads": 26,
+  "uniq": 26,
+  "smd": 0,
+  "tht": 26,
+  "pitch": 2.54,
+  "span": [
+   30.5,
+   2.54
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 27,
+  "height": "55.1181mil",
+  "used": [
+   "CON_2x13_2.54mm_THT_Long"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x15_1.27mm_SMD_F": {
+  "lib": "Connectors",
+  "name": "CON_2x15_1.27mm_SMD_F",
+  "pads": 32,
+  "uniq": 31,
+  "smd": 30,
+  "tht": 2,
+  "pitch": 1.27,
+  "span": [
+   4.9,
+   17.78
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "CON_2x15_1.27mm_SMD_F"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x15_1.27mm_SMD_M": {
+  "lib": "Connectors",
+  "name": "CON_2x15_1.27mm_SMD_M",
+  "pads": 32,
+  "uniq": 31,
+  "smd": 30,
+  "tht": 2,
+  "pitch": 1.27,
+  "span": [
+   4.9,
+   17.78
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "CON_2x15_1.27mm_SMD_M"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x30_2MM_F": {
+  "lib": "Connectors",
+  "name": "CON_2x30_2MM_F",
+  "pads": 60,
+  "uniq": 60,
+  "smd": 0,
+  "tht": 60,
+  "pitch": 2.0,
+  "span": [
+   58.0,
+   2.0
+  ],
+  "holes": [
+   0.7
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "CON_2x30_2.00mm_THT_F"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x30_2MM_M": {
+  "lib": "Connectors",
+  "name": "CON_2x30_2MM_M",
+  "pads": 60,
+  "uniq": 60,
+  "smd": 0,
+  "tht": 60,
+  "pitch": 2.0,
+  "span": [
+   58.0,
+   2.0
+  ],
+  "holes": [
+   0.7
+  ],
+  "bodies": 61,
+  "height": "0mil",
+  "used": [
+   "CON_2x30_2.00mm_THT_M"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x3_1.27mm_SMD_F": {
+  "lib": "Connectors",
+  "name": "CON_2x3_1.27mm_SMD_F",
+  "pads": 6,
+  "uniq": 6,
+  "smd": 6,
+  "tht": 0,
+  "pitch": 1.27,
+  "span": [
+   4.9,
+   2.54
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "CON_2x3_1.27mm_SMD_F"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x3_1.27mm_SMD_M": {
+  "lib": "Connectors",
+  "name": "CON_2x3_1.27mm_SMD_M",
+  "pads": 6,
+  "uniq": 6,
+  "smd": 6,
+  "tht": 0,
+  "pitch": 1.27,
+  "span": [
+   4.9,
+   2.54
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "CON_2x3_1.27mm_SMD_M"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x4_1.27mm_SMD_F": {
+  "lib": "Connectors",
+  "name": "CON_2x4_1.27mm_SMD_F",
+  "pads": 10,
+  "uniq": 9,
+  "smd": 8,
+  "tht": 2,
+  "pitch": 1.27,
+  "span": [
+   4.9,
+   3.81
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "CON_2x4_1.27mm_SMD_F"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x4_1.27mm_SMD_M": {
+  "lib": "Connectors",
+  "name": "CON_2x4_1.27mm_SMD_M",
+  "pads": 10,
+  "uniq": 9,
+  "smd": 8,
+  "tht": 2,
+  "pitch": 1.27,
+  "span": [
+   4.9,
+   3.81
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "CON_2x4_1.27mm_SMD_M"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x4_2.54MM_THT_F": {
+  "lib": "Connectors",
+  "name": "CON_2x4_2.54MM_THT_F",
+  "pads": 8,
+  "uniq": 8,
+  "smd": 0,
+  "tht": 8,
+  "pitch": 2.54,
+  "span": [
+   7.62,
+   2.54
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 1,
+  "height": "55.1181mil",
+  "used": [
+   "CON_2x4_2.54mm_THT (alt)"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x4_2.54MM_THT_M": {
+  "lib": "Connectors",
+  "name": "CON_2x4_2.54MM_THT_M",
+  "pads": 8,
+  "uniq": 8,
+  "smd": 0,
+  "tht": 8,
+  "pitch": 2.54,
+  "span": [
+   7.62,
+   2.54
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 9,
+  "height": "55.1181mil",
+  "used": [
+   "CON_2x4_2.54mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x5_1.27mm_SMD_F": {
+  "lib": "Connectors",
+  "name": "CON_2x5_1.27mm_SMD_F",
+  "pads": 12,
+  "uniq": 11,
+  "smd": 10,
+  "tht": 2,
+  "pitch": 1.27,
+  "span": [
+   4.9,
+   5.08
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "CON_2x5_1.27mm_SMD_F"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x5_1.27mm_SMD_M": {
+  "lib": "Connectors",
+  "name": "CON_2x5_1.27mm_SMD_M",
+  "pads": 12,
+  "uniq": 11,
+  "smd": 10,
+  "tht": 2,
+  "pitch": 1.27,
+  "span": [
+   4.9,
+   5.08
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "CON_2x5_1.27mm_SMD_M"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x7_2.54MM_THT_F": {
+  "lib": "Connectors",
+  "name": "CON_2x7_2.54MM_THT_F",
+  "pads": 14,
+  "uniq": 14,
+  "smd": 0,
+  "tht": 14,
+  "pitch": 2.54,
+  "span": [
+   2.54,
+   15.26
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 1,
+  "height": "55.1181mil",
+  "used": [
+   "CON_2x7_2.54mm_THT (alt)"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x7_2.54MM_THT_M": {
+  "lib": "Connectors",
+  "name": "CON_2x7_2.54MM_THT_M",
+  "pads": 14,
+  "uniq": 14,
+  "smd": 0,
+  "tht": 14,
+  "pitch": 2.54,
+  "span": [
+   2.54,
+   15.26
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 15,
+  "height": "55.1181mil",
+  "used": [
+   "CON_2x7_2.54mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_2x8_2.54MM_THT_M": {
+  "lib": "Connectors",
+  "name": "CON_2x8_2.54MM_THT_M",
+  "pads": 16,
+  "uniq": 16,
+  "smd": 0,
+  "tht": 16,
+  "pitch": 2.54,
+  "span": [
+   2.54,
+   17.8
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 17,
+  "height": "55.1181mil",
+  "used": [
+   "CON_2x8_2.54mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_BLACK_2X6_3.5MM": {
+  "lib": "Connectors",
+  "name": "CON_BLACK_2X6_3.5MM",
+  "pads": 12,
+  "uniq": 12,
+  "smd": 0,
+  "tht": 12,
+  "pitch": 3.5,
+  "span": [
+   17.5,
+   2.5
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 13,
+  "height": "0mil",
+  "used": [
+   "CON_TB_2x6_3.50mm_ST"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_BLACK_2x10_3.5mm": {
+  "lib": "Connectors",
+  "name": "CON_BLACK_2x10_3.5mm",
+  "pads": 20,
+  "uniq": 20,
+  "smd": 0,
+  "tht": 20,
+  "pitch": 3.5,
+  "span": [
+   31.5,
+   2.5
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 21,
+  "height": "0mil",
+  "used": [
+   "CON_TB_2x10_3.50mm_ST"
+  ],
+  "desc": "15EDGKNH KF2EDGKS 3.5 Double-layer spring-loaded PCB terminal block 2EDGSR black terminal"
+ },
+ "Connectors|CON_BLACK_2x8_3.5mm": {
+  "lib": "Connectors",
+  "name": "CON_BLACK_2x8_3.5mm",
+  "pads": 16,
+  "uniq": 16,
+  "smd": 0,
+  "tht": 16,
+  "pitch": 3.5,
+  "span": [
+   24.5,
+   2.5
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 17,
+  "height": "0mil",
+  "used": [
+   "CON_TB_2x8_3.50mm_ST"
+  ],
+  "desc": "15EDGKNH KF2EDGKS 3.5 Double-layer spring-loaded PCB terminal block 2EDGSR black terminal"
+ },
+ "Connectors|CON_BLACK_2x9_3.5mm": {
+  "lib": "Connectors",
+  "name": "CON_BLACK_2x9_3.5mm",
+  "pads": 18,
+  "uniq": 18,
+  "smd": 0,
+  "tht": 18,
+  "pitch": 3.5,
+  "span": [
+   28.0,
+   2.5
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 19,
+  "height": "0mil",
+  "used": [
+   "CON_TB_2x9_3.50mm_ST"
+  ],
+  "desc": "15EDGKNH KF2EDGKS 3.5 Double-layer spring-loaded PCB terminal block 2EDGSR black terminal"
+ },
+ "Connectors|CON_IDC_2x10_2.00": {
+  "lib": "Connectors",
+  "name": "CON_IDC_2x10_2.00",
+  "pads": 20,
+  "uniq": 20,
+  "smd": 0,
+  "tht": 20,
+  "pitch": 2.0,
+  "span": [
+   2.0,
+   18.0
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 26,
+  "height": "0mil",
+  "used": [
+   "CON_IDC_2x10_2.00mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_IDC_2x13_2.00": {
+  "lib": "Connectors",
+  "name": "CON_IDC_2x13_2.00",
+  "pads": 26,
+  "uniq": 26,
+  "smd": 0,
+  "tht": 26,
+  "pitch": 2.0,
+  "span": [
+   24.0,
+   2.0
+  ],
+  "holes": [
+   0.7
+  ],
+  "bodies": 32,
+  "height": "55.1181mil",
+  "used": [
+   "CON_IDC_2x13_2.00mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|CON_IDC_2x6_2.54": {
+  "lib": "Connectors",
+  "name": "CON_IDC_2x6_2.54",
+  "pads": 12,
+  "uniq": 12,
+  "smd": 0,
+  "tht": 12,
+  "pitch": 2.54,
+  "span": [
+   12.7,
+   2.54
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 18,
+  "height": "0mil",
+  "used": [
+   "CON_IDC_2x6_2.54mm"
+  ],
+  "desc": ""
+ },
+ "Connectors|Coincell_2032": {
+  "lib": "Connectors",
+  "name": "Coincell_2032",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 0,
+  "tht": 2,
+  "pitch": 20.0,
+  "span": [
+   20.0,
+   0.0
+  ],
+  "holes": [
+   2.0
+  ],
+  "bodies": 2,
+  "height": "0mil",
+  "used": [
+   "BS-2-1"
+  ],
+  "desc": ""
+ },
+ "Connectors|HANRUN_HR911105A": {
+  "lib": "Connectors",
+  "name": "HANRUN_HR911105A",
+  "pads": 16,
+  "uniq": 15,
+  "smd": 0,
+  "tht": 16,
+  "pitch": 2.54,
+  "span": [
+   15.49,
+   13.79
+  ],
+  "holes": [
+   0.89,
+   1.02,
+   1.63,
+   3.25
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "HR911105A"
+  ],
+  "desc": ""
+ },
+ "Connectors|HL2-SMA-KE-15": {
+  "lib": "Connectors",
+  "name": "HL2-SMA-KE-15",
+  "pads": 5,
+  "uniq": 5,
+  "smd": 0,
+  "tht": 5,
+  "pitch": 5.08,
+  "span": [
+   5.08,
+   5.08
+  ],
+  "holes": [
+   1.5,
+   1.7
+  ],
+  "bodies": 1,
+  "height": "188.9764mil",
+  "used": [
+   "HL2-SMA-KE-15"
+  ],
+  "desc": "Through Hole Coaxial Connector (RF) Adapters RoHS"
+ },
+ "Connectors|HRO_TYPE-C-31-M-12": {
+  "lib": "Connectors",
+  "name": "HRO_TYPE-C-31-M-12",
+  "pads": 18,
+  "uniq": 17,
+  "smd": 12,
+  "tht": 6,
+  "pitch": 0.5,
+  "span": [
+   8.65,
+   4.75
+  ],
+  "holes": [
+   0.6
+  ],
+  "bodies": 1,
+  "height": "128.3465mil",
+  "used": [
+   "TYPE-C 16PIN 2MD(073)"
+  ],
+  "desc": ""
+ },
+ "Connectors|JST XH2.54mm 1x3": {
+  "lib": "Connectors",
+  "name": "JST XH2.54mm 1x3",
+  "pads": 3,
+  "uniq": 3,
+  "smd": 0,
+  "tht": 3,
+  "pitch": 2.5,
+  "span": [
+   5.0,
+   0.0
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "CON_XH_1x3_2.50mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|JST XH2.54mm 1x4": {
+  "lib": "Connectors",
+  "name": "JST XH2.54mm 1x4",
+  "pads": 4,
+  "uniq": 4,
+  "smd": 0,
+  "tht": 4,
+  "pitch": 2.5,
+  "span": [
+   7.5,
+   0.0
+  ],
+  "holes": [
+   0.9
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "CON_XH_1x4_2.50mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|JST XH2.54mm 1x8": {
+  "lib": "Connectors",
+  "name": "JST XH2.54mm 1x8",
+  "pads": 8,
+  "uniq": 8,
+  "smd": 0,
+  "tht": 8,
+  "pitch": 2.5,
+  "span": [
+   17.5,
+   0.0
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "CON_XH_1x8_2.50mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|MICROSIM_Holder_MOLEX": {
+  "lib": "Connectors",
+  "name": "MICROSIM_Holder_MOLEX",
+  "pads": 12,
+  "uniq": 12,
+  "smd": 12,
+  "tht": 0,
+  "pitch": 1.0,
+  "span": [
+   15.1,
+   14.55
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "5039600696"
+  ],
+  "desc": ""
+ },
+ "Connectors|PCB Grounding Lug": {
+  "lib": "Connectors",
+  "name": "PCB Grounding Lug",
+  "pads": 2,
+  "uniq": 1,
+  "smd": 0,
+  "tht": 2,
+  "pitch": 5.0,
+  "span": [
+   0.0,
+   5.0
+  ],
+  "holes": [
+   0.76
+  ],
+  "bodies": 4,
+  "height": "0mil",
+  "used": [
+   "LUG_6.3mm_THT"
+  ],
+  "desc": ""
+ },
+ "Connectors|RJ45_90Deg": {
+  "lib": "Connectors",
+  "name": "RJ45_90Deg",
+  "pads": 12,
+  "uniq": 12,
+  "smd": 0,
+  "tht": 12,
+  "pitch": 2.54,
+  "span": [
+   15.71,
+   11.94
+  ],
+  "holes": [
+   0.9,
+   1.6,
+   3.2
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "R-RJ45R10P-B000"
+  ],
+  "desc": ""
+ },
+ "Connectors|RJ45_90Deg_4Port": {
+  "lib": "Connectors",
+  "name": "RJ45_90Deg_4Port",
+  "pads": 54,
+  "uniq": 53,
+  "smd": 0,
+  "tht": 54,
+  "pitch": 2.04,
+  "span": [
+   63.5,
+   10.1
+  ],
+  "holes": [
+   1.1,
+   1.2,
+   2.0,
+   3.25
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "HC-RJ45-5JA-4-2"
+  ],
+  "desc": ""
+ },
+ "Connectors|RJ45_90Deg_HCTL": {
+  "lib": "Connectors",
+  "name": "RJ45_90Deg_HCTL",
+  "pads": 16,
+  "uniq": 15,
+  "smd": 0,
+  "tht": 16,
+  "pitch": 2.04,
+  "span": [
+   16.3,
+   9.21
+  ],
+  "holes": [
+   1.1,
+   1.2,
+   2.0,
+   3.25
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "HC-RJ45-5JA-1-2"
+  ],
+  "desc": ""
+ },
+ "Connectors|TE_CONSMA003.042-L-G": {
+  "lib": "Connectors",
+  "name": "TE_CONSMA003.042-L-G",
+  "pads": 5,
+  "uniq": 5,
+  "smd": 3,
+  "tht": 0,
+  "pitch": 4.24,
+  "span": [
+   8.48,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "CON_SMA_EdgeMount"
+  ],
+  "desc": ""
+ },
+ "Connectors|TP_D1mm": {
+  "lib": "Connectors",
+  "name": "TP_D1mm",
+  "pads": 1,
+  "uniq": 1,
+  "smd": 1,
+  "tht": 0,
+  "pitch": 0,
+  "span": [
+   0.0,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "TP"
+  ],
+  "desc": ""
+ },
+ "Connectors|USB_A_FEMALE_THT": {
+  "lib": "Connectors",
+  "name": "USB_A_FEMALE_THT",
+  "pads": 6,
+  "uniq": 6,
+  "smd": 0,
+  "tht": 6,
+  "pitch": 2.5,
+  "span": [
+   13.2,
+   2.7
+  ],
+  "holes": [
+   0.9,
+   1.0,
+   2.4
+  ],
+  "bodies": 1,
+  "height": "55.1181mil",
+  "used": [
+   "U-USBAR04P-F001"
+  ],
+  "desc": ""
+ },
+ "Connectors|USB_A_FEMALE_THT_Vertical": {
+  "lib": "Connectors",
+  "name": "USB_A_FEMALE_THT_Vertical",
+  "pads": 8,
+  "uniq": 5,
+  "smd": 0,
+  "tht": 8,
+  "pitch": 2.0,
+  "span": [
+   5.5,
+   7.0
+  ],
+  "holes": [
+   1.0,
+   1.9
+  ],
+  "bodies": 1,
+  "height": "55.1181mil",
+  "used": [
+   "USB-226-BRY"
+  ],
+  "desc": ""
+ },
+ "Crystals|MC146_Crystal": {
+  "lib": "Crystals",
+  "name": "MC146_Crystal",
+  "pads": 4,
+  "uniq": 4,
+  "smd": 4,
+  "tht": 0,
+  "pitch": 6.3,
+  "span": [
+   6.3,
+   0.9
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "27.5591mil",
+  "used": [
+   "MC-146 32.7680KA-A0"
+  ],
+  "desc": ""
+ },
+ "Crystals|NDK NX2016SA-25MHZ-STD-CZS-2": {
+  "lib": "Crystals",
+  "name": "NDK NX2016SA-25MHZ-STD-CZS-2",
+  "pads": 4,
+  "uniq": 4,
+  "smd": 4,
+  "tht": 0,
+  "pitch": 0.98,
+  "span": [
+   0.98,
+   1.28
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "19.685mil",
+  "used": [
+   "NX2016SA-25MHZ-STD-CZS-2"
+  ],
+  "desc": "NDK NX2016SA-25MHZ-STD-CZS-2"
+ },
+ "Crystals|SMD5032-2P": {
+  "lib": "Crystals",
+  "name": "SMD5032-2P",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 4.0,
+  "span": [
+   4.0,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "78.7402mil",
+  "used": [
+   "X50322712MSB2GI"
+  ],
+  "desc": ""
+ },
+ "Crystals|XTAL_3215": {
+  "lib": "Crystals",
+  "name": "XTAL_3215",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 2.18,
+  "span": [
+   2.18,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "0mil",
+  "used": [
+   "XTF32032768JT00351011"
+  ],
+  "desc": ""
+ },
+ "Diodes|DIO_ESDA6V1-5W6": {
+  "lib": "Diodes",
+  "name": "DIO_ESDA6V1-5W6",
+  "pads": 6,
+  "uniq": 6,
+  "smd": 6,
+  "tht": 0,
+  "pitch": 0.65,
+  "span": [
+   1.85,
+   1.3
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "ESDA6V1-5W6",
+   "ESDA6V1-5W6-TP"
+  ],
+  "desc": ""
+ },
+ "Diodes|DO-213": {
+  "lib": "Diodes",
+  "name": "DO-213",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 5.4,
+  "span": [
+   5.4,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 4,
+  "height": "43.3071mil",
+  "used": [],
+  "desc": ""
+ },
+ "Diodes|DO-214AC": {
+  "lib": "Diodes",
+  "name": "DO-214AC",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 3.7,
+  "span": [
+   3.7,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "43.3071mil",
+  "used": [
+   "SS16"
+  ],
+  "desc": "SODFL, 2-Leads, Body 1,30x2,50mm, IPC Medium Density"
+ },
+ "Diodes|DO214AA": {
+  "lib": "Diodes",
+  "name": "DO214AA",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 4.3,
+  "span": [
+   4.3,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 2,
+  "height": "103.1496mil",
+  "used": [
+   "SMBJ58A-13-F"
+  ],
+  "desc": "Molded Capacitor, 2-Leads, Body 6,85x5,91mm, IPC Medium Density"
+ },
+ "Diodes|SMAF": {
+  "lib": "Diodes",
+  "name": "SMAF",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 4.4,
+  "span": [
+   4.4,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 2,
+  "height": "43.3071mil",
+  "used": [
+   "SS510F"
+  ],
+  "desc": ""
+ },
+ "Diodes|SOD-123FL": {
+  "lib": "Diodes",
+  "name": "SOD-123FL",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 4.5,
+  "span": [
+   4.5,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "SMF5.0CA"
+  ],
+  "desc": ""
+ },
+ "Diodes|SOD-523_0P9X1P3_ONS": {
+  "lib": "Diodes",
+  "name": "SOD-523_0P9X1P3_ONS",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 1.6,
+  "span": [
+   1.6,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "ESD5Z5.0"
+  ],
+  "desc": ""
+ },
+ "Diodes|SOIC-8_LTF": {
+  "lib": "Diodes",
+  "name": "SOIC-8_LTF",
+  "pads": 8,
+  "uniq": 8,
+  "smd": 8,
+  "tht": 0,
+  "pitch": 1.27,
+  "span": [
+   5.45,
+   3.81
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "SLVU2.8-4BTG"
+  ],
+  "desc": ""
+ },
+ "Diodes|TVS_RCLAMP0502B.TCT": {
+  "lib": "Diodes",
+  "name": "TVS_RCLAMP0502B.TCT",
+  "pads": 3,
+  "uniq": 3,
+  "smd": 3,
+  "tht": 0,
+  "pitch": 1.0,
+  "span": [
+   1.4,
+   1.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "35.4331mil",
+  "used": [
+   "RCLAMP0502B.TCT"
+  ],
+  "desc": ""
+ },
+ "IC_Digital|16SOIC_N": {
+  "lib": "IC_Digital",
+  "name": "16SOIC_N",
+  "pads": 16,
+  "uniq": 16,
+  "smd": 16,
+  "tht": 0,
+  "pitch": 1.27,
+  "span": [
+   5.6,
+   8.89
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "68.8976mil",
+  "used": [
+   "ADM3202ARNZ"
+  ],
+  "desc": "SOIC, 16-Leads, Body 9,90x3,90mm, Pitch 1,27mm, IPC Medium Density"
+ },
+ "IC_Digital|8SOIC_208": {
+  "lib": "IC_Digital",
+  "name": "8SOIC_208",
+  "pads": 8,
+  "uniq": 8,
+  "smd": 8,
+  "tht": 0,
+  "pitch": 1.27,
+  "span": [
+   7.05,
+   3.81
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "76.7717mil",
+  "used": [
+   "W25Q128FVSIG"
+  ],
+  "desc": "SOIC, 8-Leads, Body 5,23x5,23mm, Pitch 1,27mm, IPC Medium Density"
+ },
+ "IC_Digital|8SOIC_N": {
+  "lib": "IC_Digital",
+  "name": "8SOIC_N",
+  "pads": 8,
+  "uniq": 8,
+  "smd": 8,
+  "tht": 0,
+  "pitch": 1.27,
+  "span": [
+   5.4,
+   3.81
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "68.8976mil",
+  "used": [
+   "ISO7721DR",
+   "ME4925-G"
+  ],
+  "desc": "SOIC, 8-Leads, Body 4,90x3,90mm, Pitch 1,27mm, IPC Medium Density"
+ },
+ "IC_Digital|H1601CE": {
+  "lib": "IC_Digital",
+  "name": "H1601CE",
+  "pads": 16,
+  "uniq": 16,
+  "smd": 16,
+  "tht": 0,
+  "pitch": 1.27,
+  "span": [
+   9.0,
+   8.89
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "236.2205mil",
+  "used": [
+   "H1601CE"
+  ],
+  "desc": "SOIC, 16-Leads, Body 12.70x7.11mm, Pitch 1.27mm, IPC Medium Density"
+ },
+ "IC_Digital|HLK-7688A": {
+  "lib": "IC_Digital",
+  "name": "HLK-7688A",
+  "pads": 59,
+  "uniq": 59,
+  "smd": 59,
+  "tht": 0,
+  "pitch": 1.4,
+  "span": [
+   32.6,
+   19.7
+  ],
+  "holes": [],
+  "bodies": 4,
+  "height": "0mil",
+  "used": [
+   "HLK-7688A"
+  ],
+  "desc": ""
+ },
+ "IC_Digital|IC_CP2102N-A02-GQFN28R": {
+  "lib": "IC_Digital",
+  "name": "IC_CP2102N-A02-GQFN28R",
+  "pads": 29,
+  "uniq": 29,
+  "smd": 29,
+  "tht": 0,
+  "pitch": 0.5,
+  "span": [
+   4.8,
+   4.8
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "31.4961mil",
+  "used": [
+   "CP2102N-A02-GQFN28R"
+  ],
+  "desc": ""
+ },
+ "IC_Digital|LQFP-100_STM": {
+  "lib": "IC_Digital",
+  "name": "LQFP-100_STM",
+  "pads": 100,
+  "uniq": 100,
+  "smd": 100,
+  "tht": 0,
+  "pitch": 0.5,
+  "span": [
+   15.44,
+   15.44
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "STM32H562VGT6",
+   "STM32H573VIT6"
+  ],
+  "desc": ""
+ },
+ "IC_Digital|QFN50P500X500X100_HS-33N": {
+  "lib": "IC_Digital",
+  "name": "QFN50P500X500X100_HS-33N",
+  "pads": 33,
+  "uniq": 33,
+  "smd": 33,
+  "tht": 0,
+  "pitch": 0.5,
+  "span": [
+   5.6,
+   5.6
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "39.3701mil",
+  "used": [
+   "CLRC66303HNE"
+  ],
+  "desc": "QFN, 32-Leads, Body 5,00x5,00mm, Pitch 0,50mm, Thermal Pad 3,10x3,10mm, IPC Medium Density"
+ },
+ "IC_Digital|QFP50P900X900X160-48N": {
+  "lib": "IC_Digital",
+  "name": "QFP50P900X900X160-48N",
+  "pads": 48,
+  "uniq": 48,
+  "smd": 48,
+  "tht": 0,
+  "pitch": 0.5,
+  "span": [
+   8.36,
+   8.36
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "STM32F103CBT6"
+  ],
+  "desc": ""
+ },
+ "IC_Digital|SO16_TOS": {
+  "lib": "IC_Digital",
+  "name": "SO16_TOS",
+  "pads": 16,
+  "uniq": 16,
+  "smd": 16,
+  "tht": 0,
+  "pitch": 1.27,
+  "span": [
+   6.3,
+   8.89
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "TLP291-4(GB-TP,E)"
+  ],
+  "desc": ""
+ },
+ "IC_Digital|SOP65P640X120-20N": {
+  "lib": "IC_Digital",
+  "name": "SOP65P640X120-20N",
+  "pads": 20,
+  "uniq": 20,
+  "smd": 20,
+  "tht": 0,
+  "pitch": 0.65,
+  "span": [
+   5.74,
+   5.85
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "TXS0108EPWR"
+  ],
+  "desc": ""
+ },
+ "IC_Digital|SOP65P640X120-24N": {
+  "lib": "IC_Digital",
+  "name": "SOP65P640X120-24N",
+  "pads": 24,
+  "uniq": 24,
+  "smd": 24,
+  "tht": 0,
+  "pitch": 0.65,
+  "span": [
+   5.74,
+   7.15
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "47.2441mil",
+  "used": [
+   "TCA9548APWR"
+  ],
+  "desc": ""
+ },
+ "IC_Digital|SOT95P280X145-6N": {
+  "lib": "IC_Digital",
+  "name": "SOT95P280X145-6N",
+  "pads": 6,
+  "uniq": 6,
+  "smd": 6,
+  "tht": 0,
+  "pitch": 0.95,
+  "span": [
+   2.51,
+   1.9
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "TXB0101DBVR"
+  ],
+  "desc": ""
+ },
+ "IC_Digital|XCVR_ESP32-S3-WROOM-1-N16R2": {
+  "lib": "IC_Digital",
+  "name": "XCVR_ESP32-S3-WROOM-1-N16R2",
+  "pads": 61,
+  "uniq": 51,
+  "smd": 49,
+  "tht": 12,
+  "pitch": 1.27,
+  "span": [
+   17.5,
+   17.76
+  ],
+  "holes": [
+   0.2
+  ],
+  "bodies": 1,
+  "height": "127.9528mil",
+  "used": [
+   "ESP32-S3-WROOM-1-N16R2"
+  ],
+  "desc": ""
+ },
+ "IC_Power|B_S-1W": {
+  "lib": "IC_Power",
+  "name": "B_S-1W",
+  "pads": 4,
+  "uniq": 4,
+  "smd": 0,
+  "tht": 4,
+  "pitch": 2.54,
+  "span": [
+   7.62,
+   0.0
+  ],
+  "holes": [
+   1.1
+  ],
+  "bodies": 1,
+  "height": "49.2126mil",
+  "used": [
+   "B0303S-1WR3",
+   "B0505S-1W"
+  ],
+  "desc": "SOT23, 6-Leads, Body 2.90x2.80mm, Pitch 0.95mm, IPC Medium Density"
+ },
+ "IC_Power|DFN-0-EP(3x3)": {
+  "lib": "IC_Power",
+  "name": "DFN-0-EP(3x3)",
+  "pads": 11,
+  "uniq": 11,
+  "smd": 11,
+  "tht": 0,
+  "pitch": 0.5,
+  "span": [
+   2.0,
+   2.8
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "49.2126mil",
+  "used": [
+   "MCP73833-AMI/MF"
+  ],
+  "desc": "SOT23, 6-Leads, Body 2.90x2.80mm, Pitch 0.95mm, IPC Medium Density"
+ },
+ "IC_Power|IC_TPS61088RHLR": {
+  "lib": "IC_Power",
+  "name": "IC_TPS61088RHLR",
+  "pads": 21,
+  "uniq": 21,
+  "smd": 21,
+  "tht": 0,
+  "pitch": 0.5,
+  "span": [
+   3.3,
+   4.3
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "TPS61088RHLR"
+  ],
+  "desc": ""
+ },
+ "IC_Power|MAX38888": {
+  "lib": "IC_Power",
+  "name": "MAX38888",
+  "pads": 15,
+  "uniq": 15,
+  "smd": 15,
+  "tht": 0,
+  "pitch": 0.4,
+  "span": [
+   2.95,
+   2.4
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "MAX38888ATD+T"
+  ],
+  "desc": "TDFN-EP Package 14 pins"
+ },
+ "IC_Power|MIC29302WU": {
+  "lib": "IC_Power",
+  "name": "MIC29302WU",
+  "pads": 6,
+  "uniq": 6,
+  "smd": 6,
+  "tht": 0,
+  "pitch": 1.7,
+  "span": [
+   6.81,
+   10.45
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "MIC29302WU"
+  ],
+  "desc": ""
+ },
+ "IC_Power|SOIC8_T": {
+  "lib": "IC_Power",
+  "name": "SOIC8_T",
+  "pads": 9,
+  "uniq": 9,
+  "smd": 9,
+  "tht": 0,
+  "pitch": 1.27,
+  "span": [
+   5.8,
+   3.81
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "70.8661mil",
+  "used": [
+   "LMR16030SDDAR"
+  ],
+  "desc": "SOIC, 8-Leads, Body 4.90x3.90mm, Pitch 1.27mm, Thermal Pad 3.10x2.40mm, IPC Medium Density"
+ },
+ "IC_Power|SOP65P640X120-28N": {
+  "lib": "IC_Power",
+  "name": "SOP65P640X120-28N",
+  "pads": 28,
+  "uniq": 28,
+  "smd": 28,
+  "tht": 0,
+  "pitch": 0.65,
+  "span": [
+   5.88,
+   8.45
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "TPS23861PWR"
+  ],
+  "desc": "TPS23861PWR"
+ },
+ "IC_Power|SOT223-4": {
+  "lib": "IC_Power",
+  "name": "SOT223-4",
+  "pads": 4,
+  "uniq": 4,
+  "smd": 4,
+  "tht": 0,
+  "pitch": 2.3,
+  "span": [
+   6.0,
+   4.6
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "70.8661mil",
+  "used": [
+   "MIC39100-3.3WS"
+  ],
+  "desc": "SOT223, 4-Leads, Body 6,50x7,00mm (avg), Pitch 2,30mm, IPC Medium Density"
+ },
+ "IC_Power|SOT23-3": {
+  "lib": "IC_Power",
+  "name": "SOT23-3",
+  "pads": 3,
+  "uniq": 3,
+  "smd": 3,
+  "tht": 0,
+  "pitch": 1.9,
+  "span": [
+   2.3,
+   1.9
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "51.1811mil",
+  "used": [
+   "MCP1700T-3302E/TT",
+   "DMN3404L-7",
+   "DMP3098L-7",
+   "SI2333CDS-T1-GE3"
+  ],
+  "desc": "SOT23, 5-Leads, Body 2,95x2,45mm, Pitch 0,95mm, IPC Medium Density"
+ },
+ "IC_Power|SOT23-5": {
+  "lib": "IC_Power",
+  "name": "SOT23-5",
+  "pads": 5,
+  "uniq": 5,
+  "smd": 5,
+  "tht": 0,
+  "pitch": 2.7,
+  "span": [
+   2.7,
+   1.9
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "51.1811mil",
+  "used": [
+   "SY6288CAAC"
+  ],
+  "desc": "SOT23, 5-Leads, Body 2,95x2,45mm, Pitch 0,95mm, IPC Medium Density"
+ },
+ "IC_Power|SOT95P280X145-5N": {
+  "lib": "IC_Power",
+  "name": "SOT95P280X145-5N",
+  "pads": 5,
+  "uniq": 5,
+  "smd": 5,
+  "tht": 0,
+  "pitch": 2.5,
+  "span": [
+   2.5,
+   1.9
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "TLV62569DBVR"
+  ],
+  "desc": ""
+ },
+ "IC_Power|SOTFL50P160X60-6N": {
+  "lib": "IC_Power",
+  "name": "SOTFL50P160X60-6N",
+  "pads": 6,
+  "uniq": 6,
+  "smd": 6,
+  "tht": 0,
+  "pitch": 0.5,
+  "span": [
+   1.68,
+   1.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "TPS61023DRLR"
+  ],
+  "desc": ""
+ },
+ "IC_Power|TPS2121RUXR": {
+  "lib": "IC_Power",
+  "name": "TPS2121RUXR",
+  "pads": 12,
+  "uniq": 12,
+  "smd": 12,
+  "tht": 0,
+  "pitch": 0.5,
+  "span": [
+   1.5,
+   2.3
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "TPS2121RUXR"
+  ],
+  "desc": ""
+ },
+ "Other|TMB12A05": {
+  "lib": "Other",
+  "name": "TMB12A05",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 0,
+  "tht": 2,
+  "pitch": 7.6,
+  "span": [
+   7.6,
+   0.0
+  ],
+  "holes": [
+   0.8
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "TMB12A05"
+  ],
+  "desc": ""
+ },
+ "Passives|5050_RGB_LED_SMD": {
+  "lib": "Passives",
+  "name": "5050_RGB_LED_SMD",
+  "pads": 6,
+  "uniq": 6,
+  "smd": 6,
+  "tht": 0,
+  "pitch": 1.6,
+  "span": [
+   4.46,
+   3.2
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "XL-5050RGBC"
+  ],
+  "desc": ""
+ },
+ "Passives|CAP_0402": {
+  "lib": "Passives",
+  "name": "CAP_0402",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 1.0,
+  "span": [
+   1.0,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "19.685mil",
+  "used": [
+   "CAP_0402"
+  ],
+  "desc": "Chip Capacitor, 2-Leads, Body 1,06x0,51mm, IPC Medium Density"
+ },
+ "Passives|CAP_0603": {
+  "lib": "Passives",
+  "name": "CAP_0603",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 1.46,
+  "span": [
+   1.46,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "27.5591mil",
+  "used": [
+   "CAP_0603"
+  ],
+  "desc": "Chip Capacitor, 2-Leads, Body 1,57x0,78mm, IPC Medium Density"
+ },
+ "Passives|CAP_0805": {
+  "lib": "Passives",
+  "name": "CAP_0805",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 2.0,
+  "span": [
+   2.0,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "51.1811mil",
+  "used": [
+   "CAP_0805"
+  ],
+  "desc": "Chip Capacitor, 2-Leads, Body 2,03x1,35mm, IPC Medium Density"
+ },
+ "Passives|CAP_1206": {
+  "lib": "Passives",
+  "name": "CAP_1206",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 2.9,
+  "span": [
+   2.9,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "31.4961mil",
+  "used": [
+   "CAP_1206"
+  ],
+  "desc": "Chip Capacitor, 2-Leads, Body 3,05x1,56mm, IPC Medium Density"
+ },
+ "Passives|CAP_1210": {
+  "lib": "Passives",
+  "name": "CAP_1210",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 2.9,
+  "span": [
+   2.9,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "31.4961mil",
+  "used": [
+   "CAP_1210"
+  ],
+  "desc": "Chip Capacitor, 2-Leads, Body 3,05x1,56mm, IPC Medium Density"
+ },
+ "Passives|CAP_1812": {
+  "lib": "Passives",
+  "name": "CAP_1812",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 4.4,
+  "span": [
+   4.4,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "31.4961mil",
+  "used": [
+   "CAP_1812"
+  ],
+  "desc": "Chip Capacitor, 2-Leads, Body 3,05x1,56mm, IPC Medium Density"
+ },
+ "Passives|CAP_2512": {
+  "lib": "Passives",
+  "name": "CAP_2512",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 6.8,
+  "span": [
+   6.8,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "31.4961mil",
+  "used": [
+   "CAP_2512"
+  ],
+  "desc": "Chip Capacitor, 2-Leads, Body 3,05x1,56mm, IPC Medium Density"
+ },
+ "Passives|CAP_CAN_D10mm": {
+  "lib": "Passives",
+  "name": "CAP_CAN_D10mm",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 8.0,
+  "span": [
+   8.0,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 2,
+  "height": "216.5354mil",
+  "used": [
+   "RVT2A470M1010"
+  ],
+  "desc": "Aluminum Electrolytic Capacitor, Body 5,40x5,40x5,50mm, IPC Low Density"
+ },
+ "Passives|CAP_CAN_D5MM": {
+  "lib": "Passives",
+  "name": "CAP_CAN_D5MM",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 5.15,
+  "span": [
+   5.15,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 2,
+  "height": "216.5354mil",
+  "used": [
+   "RVT1C100M0405"
+  ],
+  "desc": "Aluminum Electrolytic Capacitor, Body 5,40x5,40x5,50mm, IPC Low Density"
+ },
+ "Passives|CAP_CAN_D6.3MM": {
+  "lib": "Passives",
+  "name": "CAP_CAN_D6.3MM",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 5.0,
+  "span": [
+   5.0,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "216.5354mil",
+  "used": [
+   "RVT1C471M0607"
+  ],
+  "desc": ""
+ },
+ "Passives|CAP_CAN_D8MM": {
+  "lib": "Passives",
+  "name": "CAP_CAN_D8MM",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 7.0,
+  "span": [
+   7.0,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 2,
+  "height": "216.5354mil",
+  "used": [],
+  "desc": ""
+ },
+ "Passives|CDA CBSV - Coin Supercap - V Type": {
+  "lib": "Passives",
+  "name": "CDA CBSV - Coin Supercap - V Type",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 0,
+  "tht": 2,
+  "pitch": 5.08,
+  "span": [
+   5.08,
+   0.0
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 3,
+  "height": "0mil",
+  "used": [
+   "CAP_COIN_CBSV"
+  ],
+  "desc": ""
+ },
+ "Passives|FIL_ACM2012-201-2P-T002": {
+  "lib": "Passives",
+  "name": "FIL_ACM2012-201-2P-T002",
+  "pads": 4,
+  "uniq": 4,
+  "smd": 4,
+  "tht": 0,
+  "pitch": 1.85,
+  "span": [
+   1.85,
+   0.8
+  ],
+  "holes": [],
+  "bodies": 0,
+  "height": "0mil",
+  "used": [
+   "ACM2012-201-2P-T002"
+  ],
+  "desc": ""
+ },
+ "Passives|FIL_DLM0NSN900HY2D": {
+  "lib": "Passives",
+  "name": "FIL_DLM0NSN900HY2D",
+  "pads": 4,
+  "uniq": 4,
+  "smd": 4,
+  "tht": 0,
+  "pitch": 0.6,
+  "span": [
+   0.6,
+   0.5
+  ],
+  "holes": [],
+  "bodies": 0,
+  "height": "0mil",
+  "used": [
+   "DLM0NSN900HY2D"
+  ],
+  "desc": ""
+ },
+ "Passives|FUSE_1206": {
+  "lib": "Passives",
+  "name": "FUSE_1206",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 2.9,
+  "span": [
+   2.9,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "0mil",
+  "used": [
+   "FUSE_1206"
+  ],
+  "desc": ""
+ },
+ "Passives|INDM3225X240N": {
+  "lib": "Passives",
+  "name": "INDM3225X240N",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 3.01,
+  "span": [
+   3.01,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "94.4882mil",
+  "used": [
+   "NLV32T-1R0J-EF"
+  ],
+  "desc": ""
+ },
+ "Passives|IND_1008": {
+  "lib": "Passives",
+  "name": "IND_1008",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 2.18,
+  "span": [
+   2.18,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "DFE252012F-1R0M=P2"
+  ],
+  "desc": ""
+ },
+ "Passives|IND_1210": {
+  "lib": "Passives",
+  "name": "IND_1210",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 2.9,
+  "span": [
+   2.9,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "31.4961mil",
+  "used": [
+   "NLV32T-R47J-PF",
+   "TFM322512ALMA100MTAA"
+  ],
+  "desc": ""
+ },
+ "Passives|IND_CD53": {
+  "lib": "Passives",
+  "name": "IND_CD53",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 3.9,
+  "span": [
+   3.9,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "129.9213mil",
+  "used": [
+   "FXL0530-2R2-M"
+  ],
+  "desc": "Precision Wire Wound Inductor, 2-Leads, Body 4,50x4,00mm, IPC Medium Density"
+ },
+ "Passives|IND_FXL06": {
+  "lib": "Passives",
+  "name": "IND_FXL06",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 6.07,
+  "span": [
+   6.07,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "129.9213mil",
+  "used": [
+   "FXL0630-8R2-M"
+  ],
+  "desc": "Precision Wire Wound Inductor, 2-Leads, Body 4,50x4,00mm, IPC Medium Density"
+ },
+ "Passives|Kyocera AVX TAJE477K010RNJ": {
+  "lib": "Passives",
+  "name": "Kyocera AVX TAJE477K010RNJ",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 7.02,
+  "span": [
+   7.02,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "TAJE477K010RNJ"
+  ],
+  "desc": "470uF ±10% 10V Tantalum Capacitors 500mO@100kHz CASE-E-7343-43(mm)"
+ },
+ "Passives|LED_0402": {
+  "lib": "Passives",
+  "name": "LED_0402",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 1.0,
+  "span": [
+   1.0,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "27.5591mil",
+  "used": [
+   "LED_0402"
+  ],
+  "desc": "Chip Capacitor, 2-Leads, Body 1,53x0,77mm, IPC Medium Density"
+ },
+ "Passives|LED_0603": {
+  "lib": "Passives",
+  "name": "LED_0603",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 1.5,
+  "span": [
+   1.5,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "27.5591mil",
+  "used": [
+   "LED_0603"
+  ],
+  "desc": "Chip Capacitor, 2-Leads, Body 1,53x0,77mm, IPC Medium Density"
+ },
+ "Passives|LED_0805": {
+  "lib": "Passives",
+  "name": "LED_0805",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 2.05,
+  "span": [
+   2.05,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "0mil",
+  "used": [
+   "LED_0805"
+  ],
+  "desc": ""
+ },
+ "Passives|LED_COM_ANODE": {
+  "lib": "Passives",
+  "name": "LED_COM_ANODE",
+  "pads": 4,
+  "uniq": 4,
+  "smd": 4,
+  "tht": 0,
+  "pitch": 3.4,
+  "span": [
+   3.4,
+   1.5
+  ],
+  "holes": [],
+  "bodies": 2,
+  "height": "0mil",
+  "used": [],
+  "desc": ""
+ },
+ "Passives|LIC1620": {
+  "lib": "Passives",
+  "name": "LIC1620",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 0,
+  "tht": 2,
+  "pitch": 7.5,
+  "span": [
+   7.5,
+   0.0
+  ],
+  "holes": [
+   1.0
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "LIC1620Q3R8257"
+  ],
+  "desc": ""
+ },
+ "Passives|RES_0402": {
+  "lib": "Passives",
+  "name": "RES_0402",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 1.0,
+  "span": [
+   1.0,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "0mil",
+  "used": [
+   "RES_0402"
+  ],
+  "desc": ""
+ },
+ "Passives|RES_0603": {
+  "lib": "Passives",
+  "name": "RES_0603",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 1.46,
+  "span": [
+   1.46,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "0mil",
+  "used": [
+   "RES_0603"
+  ],
+  "desc": ""
+ },
+ "Passives|RES_0805": {
+  "lib": "Passives",
+  "name": "RES_0805",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 2.0,
+  "span": [
+   2.0,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "0mil",
+  "used": [
+   "RES_0805"
+  ],
+  "desc": ""
+ },
+ "Passives|RES_1206": {
+  "lib": "Passives",
+  "name": "RES_1206",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 2.9,
+  "span": [
+   2.9,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "0mil",
+  "used": [
+   "RES_1206"
+  ],
+  "desc": ""
+ },
+ "Passives|RES_2512": {
+  "lib": "Passives",
+  "name": "RES_2512",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 6.8,
+  "span": [
+   6.8,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 3,
+  "height": "0mil",
+  "used": [
+   "RES_2512"
+  ],
+  "desc": ""
+ },
+ "Passives|SMD,5x5mm": {
+  "lib": "Passives",
+  "name": "SMD,5x5mm",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 3.9,
+  "span": [
+   3.9,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "129.9213mil",
+  "used": [
+   "MNR5020T2R2MT"
+  ],
+  "desc": "MetalLions MNR5020T2R2MT Inductor"
+ },
+ "Passives|SMD5050 - WS2812B-B": {
+  "lib": "Passives",
+  "name": "SMD5050 - WS2812B-B",
+  "pads": 4,
+  "uniq": 4,
+  "smd": 4,
+  "tht": 0,
+  "pitch": 4.9,
+  "span": [
+   4.9,
+   3.3
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "WS2812B-B/W"
+  ],
+  "desc": ""
+ },
+ "Passives|T520A107M006ATE070": {
+  "lib": "Passives",
+  "name": "T520A107M006ATE070",
+  "pads": 2,
+  "uniq": 2,
+  "smd": 2,
+  "tht": 0,
+  "pitch": 2.38,
+  "span": [
+   2.38,
+   0.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "T520A107M006ATE070"
+  ],
+  "desc": ""
+ },
+ "Transistors_Relays|8SOIC_N": {
+  "lib": "Transistors_Relays",
+  "name": "8SOIC_N",
+  "pads": 8,
+  "uniq": 8,
+  "smd": 8,
+  "tht": 0,
+  "pitch": 1.27,
+  "span": [
+   5.4,
+   3.81
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "68.8976mil",
+  "used": [
+   "ISO7721DR",
+   "ME4925-G"
+  ],
+  "desc": "SOIC, 8-Leads, Body 4,90x3,90mm, Pitch 1,27mm, IPC Medium Density"
+ },
+ "Transistors_Relays|FDMC3612": {
+  "lib": "Transistors_Relays",
+  "name": "FDMC3612",
+  "pads": 9,
+  "uniq": 9,
+  "smd": 9,
+  "tht": 0,
+  "pitch": 0.65,
+  "span": [
+   1.95,
+   2.92
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "FDMC3612"
+  ],
+  "desc": ""
+ },
+ "Transistors_Relays|Relay_SRS": {
+  "lib": "Transistors_Relays",
+  "name": "Relay_SRS",
+  "pads": 6,
+  "uniq": 6,
+  "smd": 0,
+  "tht": 6,
+  "pitch": 7.62,
+  "span": [
+   12.7,
+   7.62
+  ],
+  "holes": [
+   1.2
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "SRS-05VDC-SL"
+  ],
+  "desc": ""
+ },
+ "Transistors_Relays|SOT23": {
+  "lib": "Transistors_Relays",
+  "name": "SOT23",
+  "pads": 3,
+  "uniq": 3,
+  "smd": 3,
+  "tht": 0,
+  "pitch": 1.9,
+  "span": [
+   1.9,
+   2.2
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [],
+  "desc": ""
+ },
+ "Transistors_Relays|SOT95P237X111-3N": {
+  "lib": "Transistors_Relays",
+  "name": "SOT95P237X111-3N",
+  "pads": 3,
+  "uniq": 3,
+  "smd": 3,
+  "tht": 0,
+  "pitch": 1.9,
+  "span": [
+   2.12,
+   1.9
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "43.7008mil",
+  "used": [
+   "BSS138LT1G",
+   "BSS84LT1G"
+  ],
+  "desc": ""
+ },
+ "Transistors_Relays|SOTFL50P160X85-3N": {
+  "lib": "Transistors_Relays",
+  "name": "SOTFL50P160X85-3N",
+  "pads": 3,
+  "uniq": 3,
+  "smd": 3,
+  "tht": 0,
+  "pitch": 1.0,
+  "span": [
+   1.32,
+   1.0
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "33.4646mil",
+  "used": [
+   "DTC043ZEBTL"
+  ],
+  "desc": ""
+ },
+ "Transistors_Relays|TE_1-1393210-3": {
+  "lib": "Transistors_Relays",
+  "name": "TE_1-1393210-3",
+  "pads": 4,
+  "uniq": 4,
+  "smd": 0,
+  "tht": 4,
+  "pitch": 10.16,
+  "span": [
+   17.78,
+   15.24
+  ],
+  "holes": [
+   1.09,
+   1.98,
+   2.06
+  ],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "SLA-05VDC-SL-A"
+  ],
+  "desc": ""
+ },
+ "Transistors_Relays|TRANS_2SK3019TL": {
+  "lib": "Transistors_Relays",
+  "name": "TRANS_2SK3019TL",
+  "pads": 3,
+  "uniq": 3,
+  "smd": 3,
+  "tht": 0,
+  "pitch": 1.0,
+  "span": [
+   1.0,
+   1.1
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "2SC4617TLQ"
+  ],
+  "desc": ""
+ },
+ "Transistors_Relays|TRANS_SI7123DN-T1-GE3": {
+  "lib": "Transistors_Relays",
+  "name": "TRANS_SI7123DN-T1-GE3",
+  "pads": 9,
+  "uniq": 9,
+  "smd": 9,
+  "tht": 0,
+  "pitch": 0.66,
+  "span": [
+   2.99,
+   1.98
+  ],
+  "holes": [],
+  "bodies": 1,
+  "height": "0mil",
+  "used": [
+   "SI7129DN-T1-GE3"
+  ],
+  "desc": ""
+ }
+}
