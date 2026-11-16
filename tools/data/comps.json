@@ -1,0 +1,2006 @@
+[
+ {
+  "lib": "Buttons_and_Switches",
+  "stream": "Push_Button",
+  "ref": "Push_Button",
+  "desc": "Tactile Switch SPST 260gf Gull Wing Surface Mount",
+  "params": {
+   "note": "any manufacturer",
+   "val": "3x6x4.3MM 2PIN SMT Tactile Tact Push Button button SPST-NO",
+   "sample link": "https://www.lcsc.com/product-detail/C42420255.html",
+   "unit price": "$ 0.0308",
+   "ComponentLink1Description": "Link Title",
+   "ComponentLink1URL": "https://www.lcsc.com/product-detail/C42420255.html",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Communication",
+  "stream": "EC200AEUHA-N06-SNASA",
+  "ref": "EC200AEUHA-N06-SNASA",
+  "desc": "Quectel Wireless Solutions Embedded, 700-960, 1710-2700, 3300-5000, 5G, FPC with holder, -, Spring contact, Screw, 60.1 12.25 10.1",
+  "params": {
+   "val": "EC200AEUHA-N06-SNASA",
+   "note": "*",
+   "sample link": "https://www.quectel.com/product/lte-ec200a-series/",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Communication",
+  "stream": "EG21-G",
+  "ref": "EG21-G",
+  "desc": "The EG21-G is an LTE category 1 module in an LGA form factor measuring 29.0mm x 32.0mm x 2.4mm, which meets the 3GPP Release 11 standard. It is compatible with Quectelâ€™s UMTS/HSPA+ UC20 and UC200T modules, and multi-mode LTE Standard EC2x (EC25, EC21, EC20 R2.0 and EC20 R2.1) and EG25-G modules, enabling flexible migration between them.",
+  "params": {
+   "val": "LTE EG21-G",
+   "note": "*",
+   "sample link": "https://www.quectel.com/product/lte-eg21-g/",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Communication",
+  "stream": "EG915NEUAG-N06-SGNSA",
+  "ref": "EG915NEUAG-N06-SGNSA",
+  "desc": "LTE Cat 1 module",
+  "params": {
+   "val": "EG915N-EU",
+   "note": "Original",
+   "sample link": "*",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Communication",
+  "stream": "LAN8720AI-CP-TR",
+  "ref": "LAN8720AI-CP-TR",
+  "desc": "Small Footprint RMII 10/100 Ethernet Transceiver with HP Auto-MDIX Support",
+  "params": {
+   "val": "LAN8720AI-CP-TR",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C17146.html?s_z=n_q_LAN8720AI-CP-TR&spm=wm.fly.bg.0.xh&lcsc_vid=FFlcBAcARVBYX1YFEgNeUVYCQAQMV1RWTgNcX1VSElIxVlNRTlVdV1xXTllaUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVdbVV1SQ08GEwkK",
+   "unit price": "$ 1.0384",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Communication",
+  "stream": "U.FL-Antenna",
+  "ref": "U.FL-Antenna",
+  "desc": "U.FL Antenna coax receptacle - 50Ohm impedance",
+  "params": {
+   "val": "BWU.FL-IPEX1",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C5137195.html?s_z=n_U.FL%2520%28IPEX%2520MHF1%29",
+   "unit price": "$ 1.0384",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "A-SMA-KWE-15.1A",
+  "ref": "A-SMA-KWE-15.1A",
+  "desc": "SMA Connector - 1 Inner Bore SMA Board Side Elbow 6GHz 50Î© 5.35mm Through Hole Coaxial Connector (RF) Adapters RoHS",
+  "params": {
+   "val": "MyAntenna A-SMA-KWE-15.1A",
+   "sample link": "https://www.lcsc.com/product-detail/C49253491.html?s_z=n_SMA",
+   "unit price": "$ 0.9375",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "BH-18650-A5BJ001-2D",
+  "ref": "BH-18650-A5BJ001-2D",
+  "desc": "BATTERY HOLDER CYLINDRICAL TH",
+  "params": {
+   "val": "BH-18650-A5BJ001-2D",
+   "sample link": "https://www.lcsc.com/product-detail/C19184083.html?s_z=n_q_t_18650&spm=wm.fly.bg.2.xh___wm.ssy.tc.0.tz&lcsc_vid=RVhdAVNUQwAIV1dSEwBWUF1URFhWXgYERVENVQEAQVExVlNRT1dZXlNeRFZcVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXQ1FaSQwSGg0%3D",
+   "price": "$ 0.7",
+   "note": "*",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CONGREEN_1x2_3.81",
+  "ref": "CONGREEN_1x2_3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-2p",
+  "params": {
+   "val": "KF2EDGV-bend-3.81-2p",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=9&id=576170361051&ns=1&skuId=3789887120326&spm=a230r.1.14.16.7b7d1f20ZfqEbK",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CONGREEN_1x2_5.08",
+  "ref": "CONGREEN_1x2_5.08",
+  "desc": "Green Connector; \r\n90 Deg; \r\nStandard Power CON;",
+  "params": {
+   "val": "KF2EDGV-bend-5.08-2p",
+   "note": "any manufacturer",
+   "sample link": "https://item.taobao.com/item.htm?id=627937673630&ali_refid=a3_430620_1006:1357150152:N:qcFFAXKWVXPiAomGkMlNEA%3D%3D:4aff8ccc3e7e8f00aa33368873902164&ali_trackid=230_4aff8ccc3e7e8f00aa33368873902164&spm=a230r.1.14.8#detail",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CONGREEN_1x3_3.81",
+  "ref": "CONGREEN_1x3_3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-3p",
+  "params": {
+   "val": "KF2EDGV-bend-3.81-3p",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=9&id=576170361051&ns=1&spm=a230r.1.14.16.7b7d1f20ZfqEbK&skuId=3789887120336",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CONGREEN_1x4_.3.81",
+  "ref": "CONGREEN_1x4_.3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-4p",
+  "params": {
+   "val": "KF2EDGV-bend-3.81-4p",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=9&id=576170361051&ns=1&spm=a230r.1.14.16.7b7d1f20ZfqEbK&skuId=3789887120346",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CONGREEN_1x6_3.81",
+  "ref": "CONGREEN_1x6_3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-6p",
+  "params": {
+   "val": "KF2EDGV-bend-3.81-6p",
+   "note": "any manufacturer",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=9&id=576170361051&ns=1&skuId=3789887120366&spm=a230r.1.14.16.7b7d1f20ZfqEbK",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CONGREEN_1x7_3.81",
+  "ref": "CONGREEN_1x7_3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-7p",
+  "params": {
+   "val": "KF2EDGV-bend-3.81-7p",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=9&id=576170361051&ns=1&skuId=3789887120375&spm=a230r.1.14.16.7b7d1f20ZfqEbK",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CONGREEN_1x8_3.81",
+  "ref": "CONGREEN_1x8_3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-8p",
+  "params": {
+   "val": "KF2EDGV-bend-3.81-8p",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=9&id=576170361051&ns=1&skuId=3789887120385&spm=a230r.1.14.16.7b7d1f20ZfqEbK",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CONGREEN_1x8_3.81_straight",
+  "ref": "CONGREEN_1x8_3.81_straight",
+  "desc": "Green Connector;\r\nKF2EDGV-straight-3.81-8p",
+  "params": {
+   "val": "KF2EDGV-straight-3.81-8p",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=9&id=576170361051&ns=1&skuId=3789887120385&spm=a230r.1.14.16.7b7d1f20ZfqEbK",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CONGREEN_1x9_3.81",
+  "ref": "CONGREEN_1x9_3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-9p",
+  "params": {
+   "val": "KF2EDGV-bend-3.81-9p",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=9&id=576170361051&ns=1&skuId=3789887120395&spm=a230r.1.14.16.7b7d1f20ZfqEbK",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CONSMA003.042-L-G",
+  "ref": "CONSMA003.042-L-G",
+  "desc": "SMA Connector Both Sides Connection",
+  "params": {
+   "val": "SMA-KE",
+   "note": "*",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=19&id=625697500005&mi_id=0000RPKnrCYVV924VSQQ5dxmzhTn4ThI17Jkv_LePbrIjc8&ns=1&priceTId=2100c88c17787385578152926e0cd6&skuId=4653646038743&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22c4c43f5fe413d2f915522e81919b213b%22%7D&xxc=taobaoSearch",
+   "unit price": "$ 0.11",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_1Pin",
+  "ref": "CON_1Pin",
+  "desc": "Single THT Pad",
+  "params": {
+   "val": "*",
+   "note": "NC",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_1x14_2.54mm_THT",
+  "ref": "CON_1x14_2.54mm_THT",
+  "desc": "CON_1x14_2.54mm_THT",
+  "params": {
+   "note": "any manufacturer",
+   "val": "1x14 2.54mm",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_1x14_2.54mm_THT_Bot_Entry",
+  "ref": "CON_1x14_2.54mm_THT_Bot_Entry",
+  "desc": "CON_1x14_2.54mm_THT Bottom Entry F",
+  "params": {
+   "note": "14 áƒžáƒ˜áƒœáƒ˜áƒ�áƒœáƒ˜ áƒ�áƒ  áƒ˜áƒ§áƒ˜áƒ“áƒ”áƒ‘áƒ� áƒ“áƒ� 20áƒ˜áƒ�áƒœáƒ˜áƒ¡ áƒ§áƒ˜áƒ“áƒ•áƒ� áƒ“áƒ� áƒ’áƒ�áƒ“áƒ�áƒ­áƒ áƒ� áƒ›áƒ�áƒ’áƒ•áƒ˜áƒ¬áƒ”áƒ•áƒ¡",
+   "val": "1x14 2.54mm",
+   "sample link": "https://detail.tmall.com/item.htm?abbucket=19&id=797183413434&mi_id=0000LhedSY5ZP2KRv-54Ayo_jJ_iVmhxSMyUdi7-I17H6rU&ns=1&priceTId=2100c91517739147599908679e0d32&skuId=5604626247720&spm=a21n57.imgsearch.item.3&utparam=%7B%22aplus_abtest%22%3A%22941633843d8de7444afe6b23dca378c5%22%7D&xxc=taobaoSearch",
+   "unit price": "$ 1.48",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_1x2_2.54mm_THT",
+  "ref": "CON_1x2_2.54mm_THT",
+  "desc": "CON_1x2_2.54mm_THT",
+  "params": {
+   "val": "1x2 2.54mm THT",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_1x2_2.54mm_THT_ALT",
+  "ref": "CON_1x2_2.54mm_THT_ALT",
+  "desc": "CON_1x2_2.54mm_THT",
+  "params": {
+   "val": "1x2 2.54mm THT",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_1x3_2.54mm_THT",
+  "ref": "CON_1x3_2.54mm_THT",
+  "desc": "CON_1x3_2.54mm_THT",
+  "params": {
+   "val": "1x3 2.54mm THT",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_1x4_2.54mm_THT",
+  "ref": "CON_1x4_2.54mm_THT",
+  "desc": "CON_1x4_2.54mm_THT",
+  "params": {
+   "note": "any manufacturer",
+   "val": "1x4 2.54mm THT",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_1x4_2.54mm_THT_Bottom_Entry",
+  "ref": "CON_1x4_2.54mm_THT_Bottom_Entry",
+  "desc": "CON_1x4_2.54mm_THT",
+  "params": {
+   "note": "any manufacturer",
+   "val": "1x4 2.54mm THT",
+   "sample link": "https://detail.tmall.com/item.htm?abbucket=19&id=797183413434&mi_id=0000LhedSY5ZP2KRv-54Ayo_jJ_iVmhxSMyUdi7-I17H6rU&ns=1&priceTId=2100c91517739147599908679e0d32&skuId=5954899691431&spm=a21n57.imgsearch.item.3&utparam=%7B%22aplus_abtest%22%3A%22941633843d8de7444afe6b23dca378c5%22%7D&xxc=taobaoSearch",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_1x5_2.54mm_THT",
+  "ref": "CON_1x5_2.54mm_THT",
+  "desc": "CON_1x5_2.54mm_THT",
+  "params": {
+   "note": "any manufacturer",
+   "val": "1x5 2.54mm",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_1x6_2.54mm_THT",
+  "ref": "CON_1x6_2.54mm_THT",
+  "desc": "CON_1x6_2.54mm_THT",
+  "params": {
+   "note": "any manufacturer",
+   "val": "1x6 2.54mm",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_1x7_2.54mm_THT",
+  "ref": "CON_1x7_2.54mm_THT",
+  "desc": "CON_1x7_2.54mm_THT",
+  "params": {
+   "note": "any manufacturer",
+   "val": "1x7 2.54mm",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_1x8_2.54mm_THT",
+  "ref": "CON_1x8_2.54mm_THT",
+  "desc": "CON_1x8_2.54mm_THT",
+  "params": {
+   "note": "any manufacturer",
+   "val": "1x8 2.54mm",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x10_4.2mm_THT_F",
+  "ref": "CON_2x10_4.2mm_THT_F",
+  "desc": "CON_2x10_4.2mm_THT Straight Pin",
+  "params": {
+   "sample link": "https://item.taobao.com/item.htm?abbucket=17&id=557446625982&ns=1&spm=a230r.1.14.26.4ae16218Zr5FXY&skuId=3456302328403",
+   "val": "5557/5569 connector",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x12_4.2mm_THT_F",
+  "ref": "CON_2x12_4.2mm_THT_F",
+  "desc": "CON_2x12_4.2mm_THT Straight Pin",
+  "params": {
+   "sample link": "https://item.taobao.com/item.htm?abbucket=17&id=557446625982&ns=1&skuId=3642191258094&spm=a230r.1.14.26.4ae16218Zr5FXY",
+   "val": "5557/5569 connector",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x13_2.54mm_THT",
+  "ref": "CON_2x13_2.54mm_THT",
+  "desc": "CON_2x13_2.54mm_THT",
+  "params": {
+   "val": "CON_2x13_2mm_THT",
+   "sample link": "https://item.taobao.com/item.htm?id=534188799238&spm=a1z10.5-c.w4002-17382155375.12.655756c29WaZFO&sku_properties=1627207%3A2525007167",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x13_2.54mm_THT_Long",
+  "ref": "CON_2x13_2.54mm_THT_Long",
+  "desc": "CON_2x13_2.54mm_THT\r\n2cm Pins",
+  "params": {
+   "val": "CON_2x13_2mm_THT",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=7&id=733740487589&mi_id=0000Hg0Q1O6FFgDh7fKpRoC1w_PtEjmXGdB206RTIYGQlIM&ns=1&priceTId=2100c80517750255167513790e0cce&skuId=5077206449686&spm=a21n57.1.hoverItem.8&utparam=%7B%22aplus_abtest%22%3A%22201c268619616e18fb90ef143cfc7206%22%7D&xxc=taobaoSearch",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x15_1.27mm_SMD_F",
+  "ref": "CON_2x15_1.27mm_SMD_F",
+  "desc": "CON_2x15_1.27mm SMD with positioning pegs",
+  "params": {
+   "sample link": "https://item.taobao.com/item.htm?abbucket=7&id=990364773282&mi_id=0000PUgFQrwyk5zXe0LhPjupg4-RZI5iYj2pUu42m8jPTP4&ns=1&priceTId=2100c91e17720165420351112e0d0f&skuId=6122925414294&spm=a21n57.1.hoverItem.9&utparam=%7B%22aplus_abtest%22%3A%22e514192708b4c6914c5abc03ef6ba092%22%7D&xxc=taobaoSearch",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x15_1.27mm_SMD_M",
+  "ref": "CON_2x15_1.27mm_SMD_M",
+  "desc": "CON_2x15_1.27mm SMD with positioning pegs",
+  "params": {
+   "sample link": "https://item.taobao.com/item.htm?abbucket=7&id=985696559710&mi_id=0000wNGjyg2M_cesTe00ZVzz2no2EiD0zY1ZppcTPX7ewdU&ns=1&priceTId=2100c89217750301413374165e0cd5&spm=a21n57.imgsearch.item.2&utparam=%7B%22aplus_abtest%22%3A%221ace5186278ba47c5557f27108cb537b%22%7D&xxc=taobaoSearch&skuId=5949382556207",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x30_2MM_F",
+  "ref": "CON_2x30_2MM_F",
+  "desc": "CON_2x30_2MM_F",
+  "params": {
+   "val": "CON_2x30_2MM_M",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C65178.html?s_z=n_2.0-2%2a30P",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x30_2MM_M",
+  "ref": "CON_2x30_2MM_M",
+  "desc": "CON_2x30_2MM_M",
+  "params": {
+   "val": "CON_2x30_2MM_M",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C42717.html?spm=wm.fly.bg.0.xh___wm.fly.tp.4.ml&lcsc_vid=FVFdBVUFR1ULBQFWR1cKXlxXQwQPVFVUQFJaUFIARFkxVlNRQVhaUVNWQFdaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktRTlJADxALGw%3D%3D",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x3_1.27mm_SMD_F",
+  "ref": "CON_2x3_1.27mm_SMD_F",
+  "desc": "CON_2x4_1.27mm SMD",
+  "params": {
+   "sample link": "https://detail.tmall.com/item.htm?abbucket=7&id=542887739976&mi_id=00001byeTU42Nw8JpqvEEJw3_ofET_pYYvzusNPfAkYixoU&ns=1&skuId=3428605315590&spm=a21n57.1.hoverItem.7&utparam=%7B%22aplus_abtest%22%3A%22c8a12318f0deb53d81deeb3f6362248f%22%7D&xxc=taobaoSearch",
+   "val": "CON_2x3_1.27mm_SMD",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x3_1.27mm_SMD_M",
+  "ref": "CON_2x3_1.27mm_SMD_M",
+  "desc": "CON_2x4_1.27mm SMD",
+  "params": {
+   "sample link": "https://item.taobao.com/item.htm?abbucket=7&id=719795507717&mi_id=0000oywhHygkll7DPobYTEFSxA6Vl07qoXtlYOB_DLtdd5s&ns=1&priceTId=2100c89217750301413374165e0cd5&skuId=5189291839743&spm=a21n57.imgsearch.item.6&utparam=%7B%22aplus_abtest%22%3A%22805ff6bc82cdd4cb5da3d39334db42e2%22%7D&xxc=taobaoSearch",
+   "val": "https://item.taobao.com/item.htm?abbucket=7&id=985696559710&mi_id=0000wNGjyg2M_cesTe00ZVzz2no2EiD0zY1ZppcTPX7ewdU&ns=1&priceTId=2100c89217750301413374165e0cd5&spm=a21n57.imgsearch.item.2&utparam=%7B%22aplus_abtest%22%3A%221ace5186278ba47c5557f27108cb537b%22%7D&xxc=taobaoSearch&skuId=5949382556207",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x4_1.27mm_SMD_F",
+  "ref": "CON_2x4_1.27mm_SMD_F",
+  "desc": "CON_2x4_1.27mm SMD with positioning pegs",
+  "params": {
+   "val": "CON_2x4_1.27mm_SMD",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=7&id=990364773282&mi_id=0000PUgFQrwyk5zXe0LhPjupg4-RZI5iYj2pUu42m8jPTP4&ns=1&priceTId=2100c91e17720165420351112e0d0f&skuId=6122925414288&spm=a21n57.1.hoverItem.9&utparam=%7B%22aplus_abtest%22%3A%22e514192708b4c6914c5abc03ef6ba092%22%7D&xxc=taobaoSearch",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x4_1.27mm_SMD_M",
+  "ref": "CON_2x4_1.27mm_SMD_M",
+  "desc": "CON_2x4_1.27mm SMD with positioning pegs",
+  "params": {
+   "val": "CON_2x4_1.27mm_SMD",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=7&id=985696559710&mi_id=0000wNGjyg2M_cesTe00ZVzz2no2EiD0zY1ZppcTPX7ewdU&ns=1&priceTId=2100c89217750301413374165e0cd5&spm=a21n57.imgsearch.item.2&utparam=%7B%22aplus_abtest%22%3A%221ace5186278ba47c5557f27108cb537b%22%7D&xxc=taobaoSearch&skuId=5949382556207",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x4_2.54mm_THT",
+  "ref": "CON_2x4_2.54mm_THT",
+  "desc": "CON_2x4_2.54mm_THT",
+  "params": {
+   "note": "any manufacturer",
+   "val": "2x4 2.54mm THT",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x5_1.27mm_SMD_F",
+  "ref": "CON_2x5_1.27mm_SMD_F",
+  "desc": "CON_2x5_1.27mm SMD with positioning pegs",
+  "params": {
+   "sample link": "https://item.taobao.com/item.htm?abbucket=7&id=990364773282&mi_id=0000PUgFQrwyk5zXe0LhPjupg4-RZI5iYj2pUu42m8jPTP4&ns=1&priceTId=2100c91e17720165420351112e0d0f&skuId=6122925414289&spm=a21n57.1.hoverItem.9&utparam=%7B%22aplus_abtest%22%3A%22e514192708b4c6914c5abc03ef6ba092%22%7D&xxc=taobaoSearch",
+   "val": "CON_2x5_1.27mm_SMD",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x5_1.27mm_SMD_M",
+  "ref": "CON_2x5_1.27mm_SMD_M",
+  "desc": "CON_2x5_1.27mm SMD with positioning pegs",
+  "params": {
+   "sample link": "https://item.taobao.com/item.htm?abbucket=7&id=985696559710&mi_id=0000wNGjyg2M_cesTe00ZVzz2no2EiD0zY1ZppcTPX7ewdU&ns=1&priceTId=2100c89217750301413374165e0cd5&skuId=5949382556198&spm=a21n57.imgsearch.item.2&utparam=%7B%22aplus_abtest%22%3A%221ace5186278ba47c5557f27108cb537b%22%7D&xxc=taobaoSearch",
+   "val": "CON_2x5_1.27mm_SMD",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x7_2.54mm_THT",
+  "ref": "CON_2x7_2.54mm_THT",
+  "desc": "CON_2x7_2.54mm_THT",
+  "params": {
+   "note": "any manufacturer",
+   "val": "2x7 2.54mm",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_2x8_2.54mm_THT",
+  "ref": "CON_2x8_2.54mm_THT",
+  "desc": "CON_2x8_2.54mm_THT",
+  "params": {
+   "val": "2x8 2.54mm",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_BLACK_2x10_3.5mm",
+  "ref": "CON_BLACK_2x10_3.5mm",
+  "desc": "300V -40â„ƒ~+105â„ƒ 8 10A Black 3.5mm Board Side/Socket - Closed 2 2x8P Straight Pin Through Hole,P=3.5mm Headers, Plugs and Sockets RoHS",
+  "params": {
+   "val": "KF2EDGSV-3.5-2*8P",
+   "note": "any manufacturer",
+   "sample link": "https://item.taobao.com/item.htm?id=654108697549&last_time=1765862189&mi_id=00003wfGBEcvtUKEhEmhOd_nwq-6bMiOgI4-hHG0audKinI&scm=1007.13982.82927.0&sku_properties=1627207%3A402630518&spm=tbpc.mytb_footmark.item.goods&upStreamPrice=80",
+   "unit price": "$ 1.5",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_BLACK_2x6_3.5mm",
+  "ref": "CON_BLACK_2x6_3.5mm",
+  "desc": "300V -40â„ƒ~+105â„ƒ 8 10A Black 3.5mm Board Side/Socket - Closed 2 2x8P Straight Pin Through Hole,P=3.5mm Headers, Plugs and Sockets RoHS",
+  "params": {
+   "val": "KF2EDGSV-3.5-2*8P",
+   "note": "any manufacturer",
+   "sample link": "https://item.taobao.com/item.htm?id=654108697549&last_time=1765862189&mi_id=00003wfGBEcvtUKEhEmhOd_nwq-6bMiOgI4-hHG0audKinI&scm=1007.13982.82927.0&skuId=4896664375707&spm=tbpc.mytb_footmark.item.goods&upStreamPrice=80",
+   "unit price": "$ 1.42",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_BLACK_2x8_3.5mm",
+  "ref": "CON_BLACK_2x8_3.5mm",
+  "desc": "300V -40â„ƒ~+105â„ƒ 8 10A Black 3.5mm Board Side/Socket - Closed 2 2x8P Straight Pin Through Hole,P=3.5mm Headers, Plugs and Sockets RoHS",
+  "params": {
+   "val": "KF2EDGSV-3.5-2*8P",
+   "note": "any manufacturer",
+   "sample link": "https://item.taobao.com/item.htm?id=654108697549&last_time=1765862189&mi_id=00003wfGBEcvtUKEhEmhOd_nwq-6bMiOgI4-hHG0audKinI&scm=1007.13982.82927.0&spm=tbpc.mytb_footmark.item.goods&upStreamPrice=80&skuId=4896664375717",
+   "unit price": "$ 1.42",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_BLACK_2x9_3.5mm",
+  "ref": "CON_BLACK_2x9_3.5mm",
+  "desc": "300V -40â„ƒ~+105â„ƒ 8 10A Black 3.5mm Board Side/Socket - Closed 2 2x8P Straight Pin Through Hole,P=3.5mm Headers, Plugs and Sockets RoHS",
+  "params": {
+   "val": "KF2EDGSV-3.5-2*8P",
+   "note": "any manufacturer",
+   "sample link": "https://item.taobao.com/item.htm?id=654108697549&last_time=1765862189&mi_id=00003wfGBEcvtUKEhEmhOd_nwq-6bMiOgI4-hHG0audKinI&scm=1007.13982.82927.0&sku_properties=1627207%3A387614636&spm=tbpc.mytb_footmark.item.goods&upStreamPrice=80",
+   "unit price": "$ 1.5",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_IDC_2x10_2.00",
+  "ref": "CON_IDC_2x10_2.00",
+  "desc": "IDC Connector 2x10 2.00mm",
+  "params": {
+   "sample link": "https://item.taobao.com/item.htm?id=534188799238&spm=a1z10.5-c.w4002-17382155375.12.655756c29WaZFO&sku_properties=1627207%3A2525007165",
+   "val": "CON_10x2_2mm",
+   "unit price": "$ 0.03",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_IDC_2x13_2.00",
+  "ref": "CON_IDC_2x13_2.00",
+  "desc": "IDC Connector 2x13 2.00mm",
+  "params": {
+   "val": "CON_2x13_2mm_THT",
+   "sample link": "https://item.taobao.com/item.htm?id=534188799238&spm=a1z10.5-c.w4002-17382155375.12.655756c29WaZFO&sku_properties=1627207%3A2525007167",
+   "unit price": "$ 0.03",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "CON_IDC_2x6_2.54",
+  "ref": "CON_IDC_2x6_2.54",
+  "desc": "IDC Connector 2x6 2.54mm pitch",
+  "params": {
+   "sample link": "https://www.lcsc.com/product-detail/C9136.html",
+   "val": "BOOMELE(Boom Precision Elec) 2.54-2*6P",
+   "note": "any manufacturer",
+   "unit price": "$ 0.1136",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "Coincell 2032 - BS-2-1",
+  "ref": "Coincell 2032 - BS-2-1",
+  "desc": "Coincell 2032 - BS-2-1",
+  "params": {
+   "val": "BS-2-1",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=2&id=38536074730&ns=1&spm=a230r.1.14.36.6b9547cfXdt8x6",
+   "note": "any manufacturer",
+   "unit price": "$ 0.013",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "HL2-SMA-KE-15",
+  "ref": "HL2-SMA-KE-15",
+  "desc": "SMA Connector - Through Hole Coaxial Connector (RF) Adapters RoHS",
+  "params": {
+   "val": "HenryTech HL2-SMA-KE-15",
+   "sample link": "https://www.lcsc.com/product-detail/C53278699.html",
+   "unit price": "$ 1.1673",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "HR911105A",
+  "ref": "HR911105A",
+  "desc": "CONN MOD JACK RJ45 TH",
+  "params": {
+   "val": "HR911105A",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C12074.html",
+   "unit price": "$ 1.5011",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "JST XH2.54mm 1x3",
+  "ref": "JST XH2.54mm 1x3",
+  "desc": "Connector Header 3 position 2.54mm Pitch 3A Through Hole -25â„ƒ~+85â„ƒ",
+  "params": {
+   "sample link": "https://www.lcsc.com/product-detail/C42391661.html?spm=wm.fly.bg.3.stp___wm.sxq.ssx.spl&lcsc_vid=FVFdBVUFR1ULBQFWR1cKXlxXQwQPVFVUQFJaUFIARFkxVlNRT1lcU11RQ1ZeUTtW",
+   "val": "HX-XH2.54-3PZZ",
+   "note": "any manufacturer",
+   "unit price": "$ 0.0102",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "JST XH2.54mm 1x4",
+  "ref": "JST XH2.54mm 1x4",
+  "desc": "Connector Header 4 position 2.54mm Pitch 3A Through Hole -25â„ƒ~+85â„ƒ",
+  "params": {
+   "sample link": "https://www.lcsc.com/product-detail/C42391662.html?spm=wm.fly.bg.6.xh___wm.sxq.ssx.spl&lcsc_vid=FVFdBVUFR1ULBQFWR1cKXlxXQwQPVFVUQFJaUFIARFkxVlNRT1lcU11RQ1ZeUTtW",
+   "val": "HX-XH2.54-4PZZ",
+   "note": "any manufacturer",
+   "unit price": "$ 0.0138",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "JST XH2.54mm 1x8",
+  "ref": "JST XH2.54mm 1x8",
+  "desc": "Connector Header 8 position 2.5mm Pitch 3A Through Hole -25â„ƒ~+85â„ƒ",
+  "params": {
+   "sample link": "https://www.lcsc.com/product-detail/C7543437.html?s_z=n_jst%2520hx2.54mm-8p",
+   "val": "HX 2.54mm-8P ZZ",
+   "note": "any manufacturer",
+   "unit price": "$ 0.0308",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "MICROSIM_Holder_MOLEX",
+  "ref": "MICROSIM_Holder_MOLEX",
+  "desc": "8 (6 + 2) Position Card Connector Micro SIM Surface Mount, Right Angle Gold",
+  "params": {
+   "val": "5039600696",
+   "note": "Original",
+   "sample link": "https://www.lcsc.com/product-detail/C132719.html",
+   "unit price": "$ 1.3465",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "PCB Grounding Lug",
+  "ref": "PCB Grounding Lug",
+  "desc": "6.3 Solderable PCB Circuit Board Double-Legged Terminal Block, All-Copper Tin-Plated Terminal, DJ6111, 100 Pieces Per Pack",
+  "params": {
+   "val": "DJ6116-6.3*0.8",
+   "sample link": "https://item.taobao.com/item.htm?ali_refid=a3_430582_1006%3A1104149272%3AH%3An9mHnzcxBNp2jFTLfIj5iQYWNE7jUVWm%3A0afdb5663c5e85bf8f396bfa5daf16e9&ali_trackid=282_0afdb5663c5e85bf8f396bfa5daf16e9&id=21594604895&mi_id=00005NZ16CesVimSWTYBppn8jke6a_DMuux62et79OqQCbg&mm_sceneid=1_0_28660915_0&priceTId=2100c87a17788391439115842e0cc8&skuId=5210790142166&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22649906a51ca86400e56d821ce6049f85%22%7D&xxc=ad_ztc",
+   "note": "*",
+   "unit price": "$ 1.5",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "RJ45-90Degree-4Port",
+  "ref": "RJ45-90Degree-4Port",
+  "desc": "Jack Modular Connector RJ45 Through Hole, Right Angle Shielded",
+  "params": {
+   "val": "HCTL HC-RJ45-5JA-4-2",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C3000183.html?s_z=n_q_HC-RJ45-5JA-4-2&spm=wm.ssy.bg.0.xh&lcsc_vid=FVFdBVUFR1ULBQFWR1cKXlxXQwQPVFVUQFJaUFIARFkxVlNRQFJYXldTR1hcUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQ1NdXlFXTlNADxALGw%3D%3D",
+   "unit price": "$ 0.9557",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "RJ45_90Deg",
+  "ref": "RJ45_90Deg",
+  "desc": "Jack Modular Connector RJ45 Through Hole, Right Angle Shielded",
+  "params": {
+   "val": "Rj45 socket, 8p8c full, horizontal",
+   "sample link": "https://www.lcsc.com/product-detail/Ethernet-Connectors-Modular-Connectors-span-style-background-color-ff0-RJ45-span-RJ11_Ckmtw-Shenzhen-Cankemeng-R-RJ45R10P-B000_C386758.html",
+   "note": "Good Quality",
+   "unit price": "$ 0.3875",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "RJ45_90Deg_HCTL",
+  "ref": "RJ45_90Deg_HCTL",
+  "desc": "Jack Modular Connector RJ45 Through Hole, Right Angle Shielded",
+  "params": {
+   "val": "HCTL HC-RJ45-5JA-1-2",
+   "sample link": "https://www.lcsc.com/product-detail/C3000172.html?s_z=n_HC-RJ45-5JA-1-2",
+   "note": "",
+   "unit price": "$ 0.3325",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "TP",
+  "ref": "TP",
+  "desc": "",
+  "params": {
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "USB-TypeA",
+  "ref": "USB-TypeA",
+  "desc": "USB-A (USB TYPE-A) Receptacle Connector 4 Position Right Angle",
+  "params": {
+   "val": "Ckmtw U-USBAR04P-F001",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C3025487.html?s_z=n_USB%20female",
+   "unit price": "$ 0.1354",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "USB-TypeA_Vertical",
+  "ref": "USB-TypeA_Vertical",
+  "desc": "USB-A (USB TYPE-A) Receptacle Connector 4 Position Vertical, Flag",
+  "params": {
+   "val": "USB-226-BRY",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C720523.html?s_z=n_q_t_USB%2520TYPE-a&spm=wm.fly.bg.11.stp___wm.ssy.tc.1.tz&lcsc_vid=FVFdBVUFR1ULBQFWR1cKXlxXQwQPVFVUQFJaUFIARFkxVlNRT1lcUFBVQlFYXjsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQFRaVFBVQE8GEwkK",
+   "unit price": "$ 0.1543",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Connectors",
+  "stream": "USB-TypeC",
+  "ref": "USB-TypeC",
+  "desc": "USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount, Right Angle",
+  "params": {
+   "val": "SHOU HAN TYPE-C 16PIN 2MD(073)",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C2765186.html?s_z=n_type%2520C",
+   "unit price": "$ 0.0742",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Crystals",
+  "stream": "Crystal Oscillators X50322712MS",
+  "ref": "Crystal Oscillators X50322712MSB2GI",
+  "desc": "Crystal 27.12MHz Â±10ppm 20pF SMD5032-2P",
+  "params": {
+   "sample link": "https://www.lcsc.com/product-detail/C157343.html",
+   "val": "X50322712MSB2GI",
+   "note": "Original",
+   "unit price": "$ 0.2492",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Crystals",
+  "stream": "MC146_32.768KHz",
+  "ref": "MC146_32.768KHz",
+  "desc": "MC146_32.768KHz",
+  "params": {
+   "note": "Original",
+   "val": "MC-146 32.7680KA-A0:ROHS",
+   "sample link": "https://www.lcsc.com/product-detail/Crystals_Seiko-SSP-T7-F-32-768kHz-20PPM7pF_C108685.html",
+   "unit price": "$ 0.1761",
+   "Comment": "MC146_32.768KHz"
+  }
+ },
+ {
+  "lib": "Crystals",
+  "stream": "NDK NX2016SA-25MHZ-STD-CZS-2",
+  "ref": "NDK NX2016SA-25MHZ-STD-CZS-2",
+  "desc": "8pF Â±15ppm SMD2016-4P Crystals RoHS",
+  "params": {
+   "val": "NDK NX2016SA-25MHZ-STD-CZS-2",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C843258.html?spm=wm.fly.bg.0.xh___wm.sxq.ssx.spl&lcsc_vid=RVhdAVNUQwAIV1dSEwBWUF1URFhWXgYERVENVQEAQVExVlNRT1ZdUlFSR1VdXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlZfU1JIHxUDCw%3D%3D",
+   "unit price": "$ 0.4359",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Crystals",
+  "stream": "TOGNJING XTF32032768JT00351011",
+  "ref": "TOGNJING XTF32032768JT00351011",
+  "desc": "32.768 kHz Ã‚Â±20ppm Crystal 12.5pF 70 kOhms 2-SMD, No Lead",
+  "params": {
+   "val": "TOGNJING XTF32032768JT00351011",
+   "note": "Original",
+   "sample link": "https://www.lcsc.com/product-detail/C37635363.html",
+   "unit price": "$ 0.1399",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Diodes",
+  "stream": "ESD5Z5.0T1G",
+  "ref": "ESD5Z5.0T1G",
+  "desc": "18.6VC Clamp 9.4A Ipp ESD DIODE SOD-523",
+  "params": {
+   "val": "ESD5Z5.0",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C397782.html",
+   "unit price": "$ 0.0252",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Diodes",
+  "stream": "ESDA6V1-5W6",
+  "ref": "ESDA6V1-5W6",
+  "desc": "12VC Clamp 11A@8/20us Ipp SOT-363",
+  "params": {
+   "val": "TECH PUBLIC ESDA6V1-5W6-TP",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C970031.html?s_z=n_ESDA6V1-5W6",
+   "unit price": "$ 0.0887",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Diodes",
+  "stream": "ESDA6V1-5W6_1",
+  "ref": "ESDA6V1-5W6_1",
+  "desc": "6.1VC Clamp 200mA Ipp ESD DIODE SOT-323-6L",
+  "params": {
+   "val": "ST ESDA6V1-5W6",
+   "sample link": "https://www.lcsc.com/product-detail/C87908.html?s_z=n_ESDA6V1-5W6",
+   "unit price": "$ 0.2477",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Diodes",
+  "stream": "RCLAMP0502B.TCT",
+  "ref": "RCLAMP0502B.TCT",
+  "desc": "TVS DIODE 5VWM 18VC SOT-666-6",
+  "params": {
+   "val": "SEMTECH RCLAMP0502B.TCT",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C76390.html?s_z=n_q_SEMTECH%2520RCLAMP0502B.TCT&spm=wm.fly.bg.0.xh&lcsc_vid=Q1EKUldeTgUIV1NUQFBWUFEEQFYPUQJfR1BeUFZRR1UxVlNeT1ZZUFdTTlNZUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlBZUlJUWQkaCgg%3D",
+   "unit price": "$ 0.3574",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Diodes",
+  "stream": "SLVU2.8-4BTG",
+  "ref": "SLVU2.8-4BTG",
+  "desc": "TVS DIODE 2.8VWM 15VC SOIC-8",
+  "params": {
+   "val": "SLVU2.8-4BTG",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C2763559.html?s_z=n_q_SLVU2.8-4&spm=wm.fly.bg.0.xh&lcsc_vid=RVhdAVNUQwAIV1dSEwBWUF1URFhWXgYERVENVQEAQVExVlNRT1lcXlBfRlBXUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXQ1NXSQwSGg0%3D",
+   "unit price": "$ 1.2187",
+   "Comment": "SLVU2.8-4BTG"
+  }
+ },
+ {
+  "lib": "Diodes",
+  "stream": "SMBJ58A-13-F",
+  "ref": "SMBJ58A-13-F",
+  "desc": "93.6VC Clamp 6.4A Ipp TVS DIODE SMB",
+  "params": {
+   "val": "DIODES SMBJ58A-13-F",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C135085.html?s_z=n_SMBJ58A-13-F",
+   "unit price": "$ 0.1912",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Diodes",
+  "stream": "SMF5.0CA",
+  "ref": "SMF5.0CA",
+  "desc": "9.2VC Clamp 21.7A@10/1000us Ipp TVS DIODE SOD-123FL",
+  "params": {
+   "val": "R+O SMF5.0CA",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C19077498.html?s_z=n_q_bidirectional%2520TVS%2520diode&spm=wm.fly.bg.11.xh___wm.fly.tp.3.ml&lcsc_vid=FVFdBVUFR1ULBQFWR1cKXlxXQwQPVFVUQFJaUFIARFkxVlNRQFVaXlBfRFFZXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQ1NdXlFXTlNADxALGw%3D%3D",
+   "unit price": "$ 0.0293",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Diodes",
+  "stream": "SS16",
+  "ref": "SS16",
+  "desc": "Independent 60V 700mV@1A 1A SMA(DO-214AC) Single Diodes RoHS",
+  "params": {
+   "val": "SS16",
+   "sample link": "https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_GOODWORK-SS16_C2943739.html",
+   "note": "any manufacturer",
+   "unit price": "$ 0.0122",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Diodes",
+  "stream": "SS510F",
+  "ref": "SS510F",
+  "desc": "100V 850mV@5A 5A SMAF Schottky Diodes ROHS",
+  "params": {
+   "val": "SS510F",
+   "sample link": "https://www.lcsc.com/product-detail/Schottky-Diodes_XUMAO-SS510F_C22466253.html",
+   "note": "any manufacturer",
+   "unit price": "$ 0.0606",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "ADM3202ARNZ",
+  "ref": "ADM3202ARNZ",
+  "desc": "ADM3202ARNZ",
+  "params": {
+   "val": "ADM3202ARNZ",
+   "sample link": "https://www.lcsc.com/product-detail/RS232-ICs_Analog-Devices-ADM3202ARNZ-REEL_C496498.html",
+   "note": "Original",
+   "unit price": "$ 1.658",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "CLRC66303HNE",
+  "ref": "CLRC66303HNE",
+  "desc": "ISO 14443A,ISO 14443B,MIFARE I2C,SPI,UART HVQFN-32-EP(5x5) RFID, RF Access, Monitoring ICs RoHS",
+  "params": {
+   "sample link": "https://www.lcsc.com/product-detail/C468447.html?s_z=n_CLRC663",
+   "val": "NXP CLRC66303HNE",
+   "unit price": "$ 3.4146",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "CP2102N-A02-GQFN28R",
+  "ref": "CP2102N-A02-GQFN28R",
+  "desc": "USB to UART USB 2.0 QFN-28-EP(5x5) Interface Controllers RoHS",
+  "params": {
+   "val": "SILICON LABS CP2102N-A02-GQFN28R",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C964632.html?s_z=n_CP2102N-A02-GQFN28",
+   "unit price": "$ 1.6479",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "ESP32-S3-WROOM-1-N16R2",
+  "ref": "ESP32-S3-WROOM-1-N16R2",
+  "desc": "2.4GHz ESP32-S3 On-board PCB Antenna -103.5dBm SMD,25.5x18mm RF Transceiver Modules and Modems RoHS",
+  "params": {
+   "val": "ESPRESSIF ESP32-S3-WROOM-1-N16R2",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C2913205.html?s_z=n_esp32-s3",
+   "unit price": "$ 5.2278",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "HLK-7688A",
+  "ref": "HLK-7688A",
+  "desc": "MT7688AN Chip -89.5dBm SMD,32.8x18mm RF Transceiver Modules and Modems RoHS",
+  "params": {
+   "sample link": "https://item.taobao.com/item.htm?abbucket=9&id=539321243420&ns=1&spm=a230r.1.14.14.2b842f1aTirrn8",
+   "val": "HI-LINK HLK-7688A",
+   "note": "*",
+   "unit price": "$ 9.37",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "ISO7721DR",
+  "ref": "ISO7721DR",
+  "desc": "100kV/us SOIC-8 Digital Isolators RoHS",
+  "params": {
+   "val": "TI ISO7721DR",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C366164.html",
+   "unit price": "$ 0.5921",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "LAN Transformer",
+  "ref": "LAN Transformer",
+  "desc": "350uH 10/100 Base-T LAN Transformer 1CT:1CT Surface Mount-16P,12.7x7.1mm",
+  "params": {
+   "val": "H1601CE",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C2904701.html",
+   "unit price": "$ 0.5563",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "STM32F103CBT6",
+  "ref": "STM32F103CBT6",
+  "desc": "ARMÃ‚Â® CortexÃ‚Â®-M3 STM32F1 Microcontroller IC 32-Bit Single-Core 72MHz 128KB (128K x 8) FLASH",
+  "params": {
+   "val": "STM32F103CBT6",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C8304.html?s_z=n_q_%2509%2520STM32F103CBT6&spm=wm.fly.bg.0.xh&lcsc_vid=FFlcBAcARVBYX1YFEgNeUVYCQAQMV1RWTgNcX1VSElIxVlNRTlhbUlJeRlBdXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D",
+   "unit price": "$ 2.1159",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "STM32H562VGT6",
+  "ref": "STM32H562VGT6",
+  "desc": "High-performance, Arm Cortex-M33 with TrustZone, MCU with 1-MByte Flash, 640-Kbyte RAM, 250 MHz CPU",
+  "params": {
+   "val": "STM32H562VGT6",
+   "note": "Original",
+   "sample link": "https://www.lcsc.com/product-detail/C22452133.html?s_z=n_STM32H562",
+   "unit price": "$ 5.6771",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "STM32H573VIT6",
+  "ref": "STM32H573VIT6",
+  "desc": "High-performance, Arm Cortex-M33 with TrustZone, MCU with 1-MByte Flash, 640-Kbyte RAM, 250 MHz CPU",
+  "params": {
+   "val": "STM32H573VIT6",
+   "note": "Original",
+   "sample link": "https://www.lcsc.com/product-detail/C7545121.html?s_z=n_stm32h573",
+   "unit price": "$ 10.3829",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "TCA9548APWR",
+  "ref": "TCA9548APWR",
+  "desc": "1.65V~5.5V 400Kbps TSSOP-24 Signal Switches, Multiplexers, Decoders RoHS",
+  "params": {
+   "val": "TI TCA9548APWR",
+   "sample link": "https://www.lcsc.com/product-detail/C130026.html?s_z=n_TCA9548A",
+   "unit price": "$ 0.6432",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "TLP291-4GB-TP,ET",
+  "ref": "TLP291-4GB-TP,ET",
+  "desc": "4-Channel Optocoupler",
+  "params": {
+   "val": "TLP291-4(GB-TP,E(T",
+   "note": "Original",
+   "sample link": "https://www.lcsc.com/product-detail/C60900.html",
+   "unit price": "$ 0.7297",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "TXB0101DBVR",
+  "ref": "TXB0101DBVR",
+  "desc": "1-Bit Bidirectional Voltage-Level Shifter With Auto Direction Sensing and +/-15-kV ESD Protect",
+  "params": {
+   "val": "TXB0101DBVR",
+   "note": "Original",
+   "sample link": "https://www.lcsc.com/product-detail/C2652944.html?s_z=n_TXB0101",
+   "unit price": "$ 0.4233",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "TXS0108EPWR",
+  "ref": "TXS0108EPWR",
+  "desc": "8-bit bidirectional voltage-level shifter for open-drain and push-pull application",
+  "params": {
+   "val": "TXS0108EPWR",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C17206.html?s_z=s_p_TXS0108EPWR&spm=wm.fly.bg.0.xh&lcsc_vid=FFlcBAcARVBYX1YFEgNeUVYCQAQMV1RWTgNcX1VSElIxVlNRTlBWUVJQTldcVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D",
+   "unit price": "$ 0.3519",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Digital",
+  "stream": "W25Q128FVSIG",
+  "ref": "W25Q128FVSIG",
+  "desc": "FLASH - NOR Memory IC 128Mbit SPI - Quad I/O, QPI 104 MHz 8-SOIC from Winbond Electronics.",
+  "params": {
+   "val": "W25Q128FVSIG",
+   "note": "Original",
+   "sample link": "https://www.lcsc.com/product-detail/NOR-FLASH_Winbond-Elec-W25Q128JVSIQ_C113767.html",
+   "unit price": "$ 2.4057",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "B0303S-1WR3",
+  "ref": "B0303S-1WR3",
+  "desc": "Isolated Module DC DC Converter 3.3V 303mA 2.97V~3.63V Input",
+  "params": {
+   "val": "EVISUN B0303S-1WR3",
+   "sample link": "https://www.lcsc.com/product-detail/C7465185.html?spm=wm.fly.bg.0.xh___wm.sxq.ssx.spl&lcsc_vid=FVFdBVUFR1ULBQFWR1cKXlxXQwQPVFVUQFJaUFIARFkxVlNRT1FYUVFVRFJWUDtW",
+   "note": "",
+   "unit price": "$ 1.0212",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "B0505S-1W",
+  "ref": "B0505S-1W",
+  "desc": "Isolated Module DC DC Converter 1 Output 5V 200mA 4.5V~5.5V Input",
+  "params": {
+   "val": "RLT B0505S-1W",
+   "sample link": "https://www.lcsc.com/product-detail/C512032.html",
+   "note": "from link",
+   "unit price": "$ 1.0096",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "MAX38888ATD+T",
+  "ref": "MAX38888ATD+T",
+  "desc": "Supercapacitor 600mA TDFN-14-EP(3x3) Battery Management RoHS",
+  "params": {
+   "note": "Original",
+   "val": "MAXIM MAX38888ATD+T",
+   "sample link": "https://www.lcsc.com/product-detail/C2931491.html?s_z=n_max38888",
+   "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/max38888.pdf",
+   "unit price": "$ 4.0802",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "MCP1700T-3302E_TT",
+  "ref": "MCP1700T-3302E/TT",
+  "desc": "MCP1700T-3302E/TT",
+  "params": {
+   "val": "MCP1700T-3302E/TT",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C39051.html?s_z=n_MCP1700T-3302E%252FTT",
+   "unit price": "$ 0.4489",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "MCP73833-AMI_MF",
+  "ref": "MCP73833-AMI/MF",
+  "desc": "Stand-Alone Linear Li-Ion / Li-Polymer Charge Management Controller",
+  "params": {
+   "val": "MCP73833-AMI/MF",
+   "sample link": "https://www.lcsc.com/product-detail/C635264.html?s_z=n_q_MCP73833-AMI%252FMF&spm=wm.ssy.bg.0.xh&lcsc_vid=RVhdAVNUQwAIV1dSEwBWUF1URFhWXgYERVENVQEAQVExVlNRQFRdUldQR1ZYVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D",
+   "unit price": "$ 1.69",
+   "note": "original",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "MIC29302WU",
+  "ref": "MIC29302WU",
+  "desc": "Linear Voltage Regulator IC Positive Adjustable 1 Output 3A TO-263-5",
+  "params": {
+   "val": "MIC29302WU",
+   "note": "Original",
+   "sample link": "https://www.lcsc.com/product-detail/C2995533.html?s_z=n_MIC29302WU",
+   "unit price": "$ 0.7581",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "MIC39100_SOT223",
+  "ref": "MIC39100_SOT223",
+  "desc": "LDO; \r\n2.25V -> 16V;\r\n1A Max; \r\nFixed Output - 1.8V, 2.5V, 3.3V, 5V",
+  "params": {
+   "val": "MIC39100-3.3WS",
+   "note": "Original",
+   "sample link": "https://www.lcsc.com/product-detail/Linear-Voltage-Regulators-span-style-background-color-ff0-LDO-span_MaxLinear-SPX3940AM3-L-3-3-TR_C48252.html",
+   "unit price": "$ 0.7378",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "TI LMR16030SDDAR",
+  "ref": "TI LMR16030SDDAR",
+  "desc": "60V 3A Step-Down Converter\r\n\r\n2.5MHz Buck Adjustable 1 SO-8-EP Voltage Regulators - DC DC Switching Regulators RoHS",
+  "params": {
+   "val": "LMR16030SDDAR",
+   "sample link": "https://www.lcsc.com/product-detail/DC-DC-Converters_Texas-Instruments-LMR16030SDDAR_C136648.html",
+   "note": "original",
+   "unit price": "$ 0.5766",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "TI TPS2121RUXR",
+  "ref": "TI TPS2121RUXR",
+  "desc": "2.8-V to 22-V Priority Power MUX with Seamless Switchover",
+  "params": {
+   "val": "TI TPS2121RUXR",
+   "sample link": "https://www.lcsc.com/product-detail/Battery-Management_Texas-Instruments-TPS2121RUXR_C485916.html?s_z=n_TPS2121",
+   "note": "*",
+   "unit price": "$ 1.23",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "TI TPS23861PWR",
+  "ref": "TI TPS23861PWR",
+  "desc": "Power Sourcing Equipment (PSE) 25.5W TSSOP-28 Power Over Ethernet (PoE) Controllers RoHS",
+  "params": {
+   "val": "TI TPS23861PWR",
+   "note": "*",
+   "sample link": "http://lcsc.com/product-detail/C93245.html?s_z=n_TPS23861PW",
+   "unit price": "$ 1.988",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "TI TPS61023DRLR",
+  "ref": "TI TPS61023DRLR",
+  "desc": "3.7A boost converter with an ultra-low input voltage of 0.5V",
+  "params": {
+   "sample link": "https://www.lcsc.com/product-detail/DC-DC-Converters_Texas-Instruments-TPS61023DRLR_C919459.html?s_z=n_TPS61023",
+   "val": "TI TPS61023DRLR",
+   "note": "*",
+   "unit price": "$ 1.34",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "TLV62569DBVR",
+  "ref": "TLV62569DBVR",
+  "desc": "1.5MHz Step-down type Adjustable 600mV~5.5V 2A SOT-23-5 Voltage Regulators - DC DC Switching Regulators RoHS",
+  "params": {
+   "val": "TLV62569DBVR",
+   "sample link": "https://www.lcsc.com/product-detail/DC-DC-Converters_Texas-Instruments-TLV62569DBVR_C141836.html?s_z=n_Step-down%20type%202.5V~5.5V",
+   "note": "original",
+   "unit price": "$ 0.0731",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "TPS61088RHLR",
+  "ref": "TPS61088RHLR",
+  "desc": "Fully Integrated Synchronous Boost Converter",
+  "params": {
+   "sample link": "https://www.lcsc.com/product-detail/C87357.html?s_z=n_q_TPS61088&spm=wm.fly.bg.0.xh&lcsc_vid=QwBbXgVSRFJfV11VQANcX1JRFQdYVFIFEVMMBgICQlIxVlNeQlVXX11TQ1RbUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D",
+   "val": "TI TPS61088RHLR",
+   "note": "*",
+   "unit price": "$ 1.1702",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "IC_Power",
+  "stream": "USB - Load Switch",
+  "ref": "USB - Load Switch",
+  "desc": "1 Active High 2A Load Switch SOT-23-5 Power Distribution Switches, Load Drivers RoHS",
+  "params": {
+   "val": "Silergy SY6288CAAC",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/Power-Distribution-Switches_Silergy-Corp-SY6288CAAC_C111830.html?s_z=n_Power%2520Distribution%2520Switches",
+   "unit price": "$ 0.1562",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Other",
+  "stream": "TMB12A05",
+  "ref": "TMB12A05",
+  "desc": "TMB12A05 5V active buzzer",
+  "params": {
+   "val": "TMB12A05",
+   "sample link": "https://www.lcsc.com/product-detail/C96093.html?s_z=n_TMB12A05",
+   "note": "*",
+   "unit price": "$ 0.195",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "5050_RGB_LED_SMD",
+  "ref": "5050_RGB_LED_SMD",
+  "desc": "120Â° SMD5050-6P LED Indication - Discrete RoHS",
+  "params": {
+   "val": "XINGLIGHT XL-5050RGBC",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C2843868.html?s_z=n_5050%2520led%2520rgb",
+   "unit price": "$ 0.0531",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "ACM2012-201-2P-T002",
+  "ref": "ACM2012-201-2P-T002",
+  "desc": "2 Line Common Mode Choke Surface Mount 200 Ohms @ 100MHz 350mA DCR 250mOhm",
+  "params": {
+   "val": "ACM2012-201-2P-T002",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C19972.html?s_z=n_ACM2012",
+   "unit price": "$ 0.0806",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "CAP_0402",
+  "ref": "CAP_0402",
+  "desc": "CAP_0402",
+  "params": {
+   "val": "",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "CAP_0603",
+  "ref": "CAP_0603",
+  "desc": "CAP_0603",
+  "params": {
+   "val": "*",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "CAP_0805",
+  "ref": "CAP_0805",
+  "desc": "CAP_0805",
+  "params": {
+   "val": "*",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "CAP_1206",
+  "ref": "CAP_1206",
+  "desc": "CAP_1206",
+  "params": {
+   "val": "*",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "CAP_1210",
+  "ref": "CAP_1210",
+  "desc": "CAP_1210",
+  "params": {
+   "val": "*",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "CAP_1812",
+  "ref": "CAP_1812",
+  "desc": "CAP_1812",
+  "params": {
+   "val": "*",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "CAP_2512",
+  "ref": "CAP_2512",
+  "desc": "CAP_2512",
+  "params": {
+   "val": "*",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "CAP_CAN_D10mm",
+  "ref": "CAP_CAN_D10mm",
+  "desc": "SMD Can Capacitor; 10mm Diameter",
+  "params": {
+   "val": "47uf 100v",
+   "note": "Original",
+   "sample link": "https://www.lcsc.com/product-detail/Aluminum-Electrolytic-span-style-background-color-ff0-Capacitors-span-SMD_ROQANG-RVT2A470M1010_C335988.html",
+   "unit price": "$ 0.0921",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "CAP_CAN_D5mm",
+  "ref": "CAP_CAN_D5mm",
+  "desc": "SMD Can Capacitor; 5mm Diameter",
+  "params": {
+   "val": "10uf",
+   "note": "any manufacturer",
+   "sample link": "https://www.lcsc.com/product-detail/C3357.html?s_z=n_10uF%2520SMD%2520Can%2520Capacitor%2520D5%2520RVT",
+   "unit price": "$ 0.0283",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "CAP_CAN_D6.3mm",
+  "ref": "CAP_CAN_D6.3mm",
+  "desc": "SMD Can Capacitor; 6.3mm Diameter",
+  "params": {
+   "val": "470uF 10V",
+   "sample link": "https://www.lcsc.com/product-detail/C2977552.html",
+   "note": "any manufacturer",
+   "unit price": "$ 0.0654",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "CDA CBSV - Coin Supercap",
+  "ref": "CDA CBSV - Coin Supercap",
+  "desc": "CDA CBSV Series Button/Coin Supercapacitor",
+  "params": {
+   "val": "3.6V 0.22F-V Type",
+   "note": "*",
+   "sample link": "https://item.taobao.com/item.htm?id=783033798124&skuId=5349500677222&spm=a312a.7700824.w4004-25396071216.5.6b7dcd092iIvpZ",
+   "unit price": "$ 0.022",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "DLM0NSN900HY2D",
+  "ref": "DLM0NSN900HY2D",
+  "desc": "2 Line Common Mode Choke Surface Mount 90 Ohms @ 100MHz 100mA DCR 5Ohm",
+  "params": {
+   "val": "DLM0NSN900HY2D",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C882594.html",
+   "unit price": "$ 0.0612",
+   "Comment": "*"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "Fuse_1206",
+  "ref": "Fuse_1206",
+  "desc": "Fuse_1206",
+  "params": {
+   "val": "",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=8&id=562837668942&ns=1&spm=a230r.1.14.1.30d440c1oWmyxt",
+   "note": "https://item.taobao.com/item.htm?abbucket=8&id=562837668942&ns=1&spm=a230r.1.14.1.30d440c1oWmyxt",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "IND_1008_SMD_1UF_3.3A",
+  "ref": "IND_1008_SMD_1UF_3.3A",
+  "desc": "3.3A 1uH 4.7A 40mÎ© Â±20% 1008 Fixed Inductors RoHS",
+  "params": {
+   "val": "muRata DFE252012F-1R0M=P2",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C435392.html",
+   "unit price": "$ 0.1775",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "IND_1210_Choke",
+  "ref": "IND_1210_Choke",
+  "desc": "Precision Wire Wound Inductor, 2-Leads, Body 4,50x4,00mm, IPC Medium Density",
+  "params": {
+   "val": "TDK TFM322512ALMA100MTAA",
+   "sample link": "https://www.lcsc.com/product-detail/C2047632.html",
+   "note": "Original",
+   "unit price": "$ 0.7243",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "IND_FXL06",
+  "ref": "IND_FXL06",
+  "desc": "Precision Wire Wound Inductor, 2-Leads, Body 4,50x4,00mm, IPC Medium Density",
+  "params": {
+   "val": "FXL0630-8R2-M",
+   "sample link": "https://www.lcsc.com/product-detail/span-style-background-color-ff0-Power-span-Inductors_cjiang-Changjiang-Microelectronics-Tech-FXL0630-8R2-M_C167222.html",
+   "note": "original",
+   "unit price": "$ 0.1695",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "Kyocera AVX TAJE477K010RNJ",
+  "ref": "Kyocera AVX TAJE477K010RNJ",
+  "desc": "470uF Â±10% 10V Tantalum Capacitors 500mÎ©@100kHz CASE-E-7343-43(mm)",
+  "params": {
+   "val": "470uF 10V",
+   "sample link": "https://www.lcsc.com/product-detail/C7234.html",
+   "note": "Original",
+   "unit price": "$ 1.4194",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "LED_0402",
+  "ref": "LED_0402",
+  "desc": "LED_0402",
+  "params": {
+   "unit price": "",
+   "Comment": "LED_0402"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "LED_0603",
+  "ref": "LED_0603",
+  "desc": "LED_0603",
+  "params": {
+   "unit price": "",
+   "Comment": "LED_0603"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "LED_0805",
+  "ref": "LED_0805",
+  "desc": "LED_0805",
+  "params": {
+   "unit price": "",
+   "Comment": "LED_0805"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "LIC1620Q3R8257",
+  "ref": "LIC1620Q3R8257",
+  "desc": "250 F (EDLC) Supercapacitor 3.8 V Radial, Can 50mOhm @ 1kHz 1000 Hrs @ 85Â°C",
+  "params": {
+   "val": "LIC1620Q3R8257",
+   "note": "*",
+   "sample link": "https://item.taobao.com/item.htm?_u=e2r4v2sjdebc&id=738986121672&skuId=5097180376418&spm=a1z09.2.0.0.75e02e8dnkHqom",
+   "unit price": "$ 3.47",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "MetalLions MNR5020T2R2MT",
+  "ref": "MetalLions MNR5020T2R2MT",
+  "desc": "2.9A 2.2uH Â±20% 4A 32mÎ© Magnetic Shielded Inductor SMD,5x5mm Fixed Inductors RoHS",
+  "params": {
+   "val": "MetalLions MNR5020T2R2MT",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C18222052.html",
+   "unit price": "$ 0.0525",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "NLV32T-1R0J-EF",
+  "ref": "NLV32T-1R0J-EF",
+  "desc": "FIXED IND 1uH 400mA 700mÎ© 1210",
+  "params": {
+   "val": "TDK NLV32T-1R0J-EF",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C286755.html?s_z=n_q_NLV32T-1R0J-EF&spm=wm.fly.bg.0.xh&lcsc_vid=FVFdBVUFR1ULBQFWR1cKXlxXQwQPVFVUQFJaUFIARFkxVlNeR1JWU11UQFVXVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlBZUlJUWQkaCgg%3D",
+   "unit price": "$ 0.0498",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "NLV32T-R47J-PF",
+  "ref": "NLV32T-R47J-PF",
+  "desc": "450mA 470nH 500mÎ© Magnetic Shielded Inductor Â±5% 1210 Fixed Inductors RoHS",
+  "params": {
+   "val": "TDK NLV32T-R47J-PF",
+   "sample link": "https://www.lcsc.com/product-detail/C89029.html?s_z=n_NLV32T-R47J-PF",
+   "note": "Original",
+   "unit price": "$ 0.0653",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "RES_0402",
+  "ref": "RES_0402",
+  "desc": "RES_0402",
+  "params": {
+   "val": "*",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "RES_0603",
+  "ref": "RES_0603",
+  "desc": "RES_0603",
+  "params": {
+   "val": "*",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "RES_0805",
+  "ref": "RES_0805",
+  "desc": "RES_0805",
+  "params": {
+   "val": "*",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "RES_1206",
+  "ref": "RES_1206",
+  "desc": "RES_1206",
+  "params": {
+   "val": "*",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "RES_2512",
+  "ref": "RES_2512",
+  "desc": "RES_2512",
+  "params": {
+   "val": "*",
+   "note": "any manufacturer",
+   "unit price": "",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "T520A107M006ATE070",
+  "ref": "T520A107M006ATE070",
+  "desc": "100uF Â±20% 6.3V Tantalum Capacitors 70mÎ©@100kHz CASE-A-3216-18(mm)",
+  "params": {
+   "val": "100uF 6.3V",
+   "sample link": "https://www.lcsc.com/product-detail/C561794.html",
+   "note": "Original",
+   "unit price": "$ 0.4636",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "TZC3P200A110R00",
+  "ref": "TZC3P200A110R00",
+  "desc": "250@1MHz 5.8pF~20pF 0%~+50% 100V SMD,4.5x3.2mm Trimmers, Variable Capacitors RoHS",
+  "params": {
+   "val": "SEHWA STC3MD20-T1",
+   "sample link": "https://www.lcsc.com/product-detail/C22468122.html",
+   "unit price": "$ 0.4485",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "Worldsemi WS2812B-B_W",
+  "ref": "Worldsemi WS2812B-B/W",
+  "desc": "Intelligent control LED integrated light source",
+  "params": {
+   "val": "Worldsemi WS2812B-B/W",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C114586.html?s_z=s_undefined_t_WS2812B&spm=wm.fly.bg.0.xh___wm.ssy.tc.1.tz&lcsc_vid=RAULBAcCRwJfVQVVFgVdUgVREQNXXlAEEwRbVVBTRAAxVlNeR1RZVlRVQFhbVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQ1NdXlFXTlNADxALGw%3D%3D",
+   "price": "$ 0.0981",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Passives",
+  "stream": "cjiang FXL0530-2R2-M",
+  "ref": "cjiang FXL0530-2R2-M",
+  "desc": "FIXED IND 2.2uH 7A 29mÎ© SMD,5.2x5.4mm",
+  "params": {
+   "val": "cjiang FXL0530-2R2-M",
+   "sample link": "https://www.lcsc.com/product-detail/C177247.html?s_z=n_q_FXL0530-2R2-M&spm=wm.fly.bg.0.xh&lcsc_vid=QwBbXgVSRFJfV11VQANcX1JRFQdYVFIFEVMMBgICQlIxVlNeQlhcXlRRT1hYVDsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slQ1ZbUlVRWQkaCgg%3D",
+   "note": "*",
+   "unit price": "$ 0.2667",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Transistors_Relays",
+  "stream": "2SC4617TLQ",
+  "ref": "2SC4617TLQ",
+  "desc": "NPN - Bipolar (BJT) Transistor 50V 150mA 180MHz 200mW Surface Mount SOT-416",
+  "params": {
+   "val": "2SC4617TLQ",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C308648.html?s_z=n_2SC4617TLQ",
+   "unit price": "$ 0.0281",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Transistors_Relays",
+  "stream": "BSS138LT1G",
+  "ref": "BSS138LT1G",
+  "desc": "N-Channel 50 V 200mA (Ta) 225mW (Ta) Surface Mount SOT-23-3 (TO-236)",
+  "params": {
+   "val": "onsemi BSS138LT1G",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C82045.html?s_z=n_BSS138",
+   "unit price": "$ 0.0417",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Transistors_Relays",
+  "stream": "BSS84LT1G",
+  "ref": "BSS84LT1G",
+  "desc": "P-Channel 50V 130mA 225mW Surface Mount SOT-23",
+  "params": {
+   "val": "onsemi BSS84LT1G",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C82079.html?s_z=n_BSS84%2520",
+   "unit price": "$ 0.0495",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Transistors_Relays",
+  "stream": "DMN3404L-7",
+  "ref": "DMN3404L-7",
+  "desc": "N-Channel 30V 5.8A 1.4W Surface Mount SOT-23",
+  "params": {
+   "val": "DMN3404L-7",
+   "sample link": "https://www.lcsc.com/product-detail/MOSFETs_Diodes-Incorporated-DMN3404L-7_C155257.html",
+   "note": "Original",
+   "unit price": "$ 0.1522",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Transistors_Relays",
+  "stream": "DMP3098L-7",
+  "ref": "DMP3098L-7",
+  "desc": "P-Channel 30V 3.8A 1.08W Surface Mount SOT-23",
+  "params": {
+   "val": "DIODES DMP3098L-7",
+   "sample link": "https://www.lcsc.com/product-detail/C150492.html?s_z=n_DMP3098L-7.",
+   "note": "Original",
+   "unit price": "$ 0.0717",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Transistors_Relays",
+  "stream": "DTC043ZEBTL",
+  "ref": "DTC043ZEBTL",
+  "desc": "NPN - Pre-Biased Bipolar Transistor (BJT) - Pre-Biased 50 V 100 mA 250 MHz 150 mW Surface Mount EMT3F (SOT-416FL)",
+  "params": {
+   "val": "DTC043ZEBTL",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C96459.html?s_z=n_DTC043ZEBTL",
+   "unit price": "$ 0.0237",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Transistors_Relays",
+  "stream": "FDMC3612",
+  "ref": "FDMC3612",
+  "desc": "N-Channel 100V 12A 35W Surface Mount Power-33",
+  "params": {
+   "val": "onsemi FDMC3612",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C455160.html?s_z=n_FDMC3612",
+   "unit price": "$ 0.6755",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Transistors_Relays",
+  "stream": "ME4925-G",
+  "ref": "ME4925-G",
+  "desc": "P-Channel 30V 6.3A 1.3W Surface Mount SOP-8",
+  "params": {
+   "sample link": "https://www.lcsc.com/product-detail/C709762.html",
+   "val": "MATSUKI ME4925-G",
+   "unit price": "$ 0.1682",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Transistors_Relays",
+  "stream": "Relay_SRS",
+  "ref": "Relay_SRS",
+  "desc": "Relay",
+  "params": {
+   "val": "SRS-05VDC-SL",
+   "note": "from link",
+   "sample link": "https://item.taobao.com/item.htm?abbucket=9&id=584207393810&ns=1&pisk=fOCshR1kmcm_f02aFqUeApZL-qAX1iNrfqTArZhZkCd9D9_lchz0ICWBcMIBXfzgIKKfjCpcQn-wcI_cVyrza77GSIAT4uPy8hfZ6CLtMKKTkvLvk5ZULD7GSIxx8mePpNmfnEhjBEKYRBLXuAdvBIHKJHYjDfIvXpnpPUAvMIIv9vLDkfKvBhhdJHYSDjpvMDKp7EmvWIIAJyTmaHnBuRTA5yWfbIG_9k7wAjhSxF9tLNkqGj6BWd1AbHTe86T6C39IPz716M7A_1v3KvRc8TsfHgEEQhBWPM9PCuG1VGYAAC58oRvHHs1X-9qjh36A7TXvdPFORCt6dF9s5xd1HGfXIOg0rwdOxTxkBJqHR15yh3vIvlQFRhp5hGrnMhW5JM9PTDlywTjCGLdR4jGyVVP-h29oGetzRyMmnw-0NsrQIcrwBeYTayaIAxv9-etzRyMmndLHW9zQRDMc.&priceTId=2100c82317333083994452978e0ba9&spm=a21n57.1.item.10.4f18523cpBxeOA&utparam=%7B%22aplus_abtest%22%3A%22f53ef0514aa7d22871c3bb8e7bbeef31%22%7D&xxc=taobaoSearch&sku_properties=1627207%3A124880741",
+   "unit price": "$ 0.18",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Transistors_Relays",
+  "stream": "SI2333CDS-T1-GE3",
+  "ref": "SI2333CDS-T1-GE3",
+  "desc": "P-Channel 12 V 7.1A (Tc) 1.25W (Ta), 2.5W (Tc) Surface Mount SOT-23-3 (TO-236)",
+  "params": {
+   "val": "SI2333CDS-T1-GE3",
+   "note": "*",
+   "sample link": "https://www.lcsc.com/product-detail/C48179.html?s_z=n_q_SI2333CDS-T1-GE3",
+   "unit price": "$ 0.2832",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Transistors_Relays",
+  "stream": "SLA-05VDC-SL-A",
+  "ref": "SLA-05VDC-SL-A",
+  "desc": "RELAY POWER SPST-NO 30A 5V\r\n\r\nPower Relay 1 Form A: 1A (SPST-NO) 5V Coil Through Hole,27.6x32mm",
+  "params": {
+   "val": "Songle Relay SLA-05VDC-SL-A",
+   "sample link": "https://www.lcsc.com/product-detail/C250645.html",
+   "unit price": "$ 0.8845",
+   "Comment": "=val"
+  }
+ },
+ {
+  "lib": "Transistors_Relays",
+  "stream": "VISHAY SI7129DN-T1-GE3",
+  "ref": "VISHAY SI7129DN-T1-GE3",
+  "desc": "MOSFET P-CH 30V 35A PowerPAK1212-8",
+  "params": {
+   "val": "SI7129DN-T1-GE3",
+   "sample link": "https://www.lcsc.com/product-detail/C727679.html?s_z=n_q_SI7129DN-T1-GE3&spm=wm.fly.bg.0.xh&lcsc_vid=RVhdAVNUQwAIV1dSEwBWUF1URFhWXgYERVENVQEAQVExVlNRTlNbVV1UQlJZUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4NBhADEA4cHktXQ1JYSQwSGg0%3D",
+   "note": "*",
+   "unit price": "$ 0.4360",
+   "Comment": "=val"
+  }
+ }
+]

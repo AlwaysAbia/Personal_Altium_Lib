@@ -1,0 +1,3640 @@
+[
+ {
+  "lib": "Buttons_and_Switches",
+  "ref": "Push_Button",
+  "desc": "Tactile Switch SPST 260gf Gull Wing Surface Mount",
+  "old_val": "3x6x4.3MM 2PIN SMT Tactile Tact Push Button button SPST-NO",
+  "mpn": "TS-101-S26",
+  "mfr": "JXTCONN",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C42420255.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "val was a description; part number taken from the LCSC link."
+ },
+ {
+  "lib": "Communication",
+  "ref": "EC200AEUHA-N06-SNASA",
+  "desc": "Quectel Wireless Solutions Embedded, 700-960, 1710-2700, 3300-5000, 5G, FPC with holder, -, Spring contact, Screw, 60.1 12.25 10.1",
+  "old_val": "EC200AEUHA-N06-SNASA",
+  "mpn": "EC200AEUHA-N06-SNASA",
+  "mfr": "Quectel",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "Quectel",
+    "https://www.quectel.com/product/lte-ec200a-series/"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Communication",
+  "ref": "EG21-G",
+  "desc": "The EG21-G is an LTE category 1 module in an LGA form factor measuring 29.0mm x 32.0mm x 2.4mm, which meets the 3GPP Release 11 standard. It is compatible with Quectelâ€™s UMTS/HSPA+ UC20 and UC200T modules, and multi-mode LTE Standard EC2x (EC25, EC21, EC20 R2.0 and EC20 R2.1) and EG25-G modules, enabling flexible migration between them.",
+  "old_val": "LTE EG21-G",
+  "mpn": "EG21-G",
+  "mfr": "Quectel",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "Quectel",
+    "https://www.quectel.com/product/lte-eg21-g/"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Communication",
+  "ref": "EG915NEUAG-N06-SGNSA",
+  "desc": "LTE Cat 1 module",
+  "old_val": "EG915N-EU",
+  "mpn": "EG915NEUAG-N06-SGNSA",
+  "mfr": "Quectel",
+  "value": "",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "val was 'EG915N-EU'; used the full ordering code from the component name."
+ },
+ {
+  "lib": "Communication",
+  "ref": "LAN8720AI-CP-TR",
+  "desc": "Small Footprint RMII 10/100 Ethernet Transceiver with HP Auto-MDIX Support",
+  "old_val": "LAN8720AI-CP-TR",
+  "mpn": "LAN8720AI-CP-TR",
+  "mfr": "Microchip",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C17146.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Communication",
+  "ref": "U.FL-Antenna",
+  "desc": "U.FL Antenna coax receptacle - 50Ohm impedance",
+  "old_val": "BWU.FL-IPEX1",
+  "mpn": "BWU.FL-IPEX1",
+  "mfr": "BAT Wireless",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C5137195.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "A-SMA-KWE-15.1A",
+  "desc": "SMA Connector - 1 Inner Bore SMA Board Side Elbow 6GHz 50Î© 5.35mm Through Hole Coaxial Connector (RF) Adapters RoHS",
+  "old_val": "MyAntenna A-SMA-KWE-15.1A",
+  "mpn": "A-SMA-KWE-15.1A",
+  "mfr": "MyAntenna",
+  "value": "",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C49253491.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "BH-18650-A5BJ001-2D",
+  "desc": "BATTERY HOLDER CYLINDRICAL TH",
+  "old_val": "BH-18650-A5BJ001-2D",
+  "mpn": "BH-18650-A5BJ001-2D",
+  "mfr": "MYOUNG",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C19184083.html"
+   ]
+  ],
+  "dropped": [
+   "price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CONGREEN_1x2_3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-2p",
+  "old_val": "KF2EDGV-bend-3.81-2p",
+  "mpn": "",
+  "mfr": "",
+  "value": "KF2EDGV 1x2P 3.81mm 90deg",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=576170361051&skuId=3789887120326"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CONGREEN_1x2_5.08",
+  "desc": "Green Connector; \r\n90 Deg; \r\nStandard Power CON;",
+  "old_val": "KF2EDGV-bend-5.08-2p",
+  "mpn": "",
+  "mfr": "",
+  "value": "KF2EDGV 1x2P 5.08mm 90deg",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=627937673630"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CONGREEN_1x3_3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-3p",
+  "old_val": "KF2EDGV-bend-3.81-3p",
+  "mpn": "",
+  "mfr": "",
+  "value": "KF2EDGV 1x3P 3.81mm 90deg",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=576170361051&skuId=3789887120336"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CONGREEN_1x4_.3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-4p",
+  "old_val": "KF2EDGV-bend-3.81-4p",
+  "mpn": "",
+  "mfr": "",
+  "value": "KF2EDGV 1x4P 3.81mm 90deg",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=576170361051&skuId=3789887120346"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CONGREEN_1x6_3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-6p",
+  "old_val": "KF2EDGV-bend-3.81-6p",
+  "mpn": "",
+  "mfr": "",
+  "value": "KF2EDGV 1x6P 3.81mm 90deg",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=576170361051&skuId=3789887120366"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CONGREEN_1x7_3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-7p",
+  "old_val": "KF2EDGV-bend-3.81-7p",
+  "mpn": "",
+  "mfr": "",
+  "value": "KF2EDGV 1x7P 3.81mm 90deg",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=576170361051&skuId=3789887120375"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CONGREEN_1x8_3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-8p",
+  "old_val": "KF2EDGV-bend-3.81-8p",
+  "mpn": "",
+  "mfr": "",
+  "value": "KF2EDGV 1x8P 3.81mm 90deg",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=576170361051&skuId=3789887120385"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CONGREEN_1x8_3.81_straight",
+  "desc": "Green Connector;\r\nKF2EDGV-straight-3.81-8p",
+  "old_val": "KF2EDGV-straight-3.81-8p",
+  "mpn": "",
+  "mfr": "",
+  "value": "KF2EDGV 1x8P 3.81mm Straight",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=576170361051&skuId=3789887120385"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CONGREEN_1x9_3.81",
+  "desc": "Green Connector;\r\nKF2EDGV-bend-3.81-9p",
+  "old_val": "KF2EDGV-bend-3.81-9p",
+  "mpn": "",
+  "mfr": "",
+  "value": "KF2EDGV 1x9P 3.81mm 90deg",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=576170361051&skuId=3789887120395"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CONSMA003.042-L-G",
+  "desc": "SMA Connector Both Sides Connection",
+  "old_val": "SMA-KE",
+  "mpn": "",
+  "mfr": "",
+  "value": "SMA-KE Edge Mount",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=625697500005&skuId=4653646038743"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_1Pin",
+  "desc": "Single THT Pad",
+  "old_val": "*",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "NC",
+  "note_new": "NC",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_1x14_2.54mm_THT",
+  "desc": "CON_1x14_2.54mm_THT",
+  "old_val": "1x14 2.54mm",
+  "mpn": "",
+  "mfr": "",
+  "value": "1x14 2.54mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_1x14_2.54mm_THT_Bot_Entry",
+  "desc": "CON_1x14_2.54mm_THT Bottom Entry F",
+  "old_val": "1x14 2.54mm",
+  "mpn": "",
+  "mfr": "",
+  "value": "1x14 2.54mm Bottom Entry",
+  "note_old": "14 áƒžáƒ˜áƒœáƒ˜áƒ�áƒœáƒ˜ áƒ�áƒ  áƒ˜áƒ§áƒ˜áƒ“áƒ”áƒ‘áƒ� áƒ“áƒ� 20áƒ˜áƒ�áƒœáƒ˜áƒ¡ áƒ§áƒ˜áƒ“áƒ•áƒ� áƒ“áƒ� áƒ’áƒ�áƒ“áƒ�áƒ­áƒ áƒ� áƒ›áƒ�áƒ’áƒ•áƒ˜áƒ¬áƒ”áƒ•áƒ¡",
+  "note_new": "14 áƒžáƒ˜áƒœáƒ˜áƒ�áƒœáƒ˜ áƒ�áƒ  áƒ˜áƒ§áƒ˜áƒ“áƒ”áƒ‘áƒ� áƒ“áƒ� 20áƒ˜áƒ�áƒœáƒ˜áƒ¡ áƒ§áƒ˜áƒ“áƒ•áƒ� áƒ“áƒ� áƒ’áƒ�áƒ“áƒ�áƒ­áƒ áƒ� áƒ›áƒ�áƒ’áƒ•áƒ˜áƒ¬áƒ”áƒ•áƒ¡",
+  "links": [
+   [
+    "Tmall",
+    "https://detail.tmall.com/item.htm?id=797183413434&skuId=5604626247720"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_1x2_2.54mm_THT",
+  "desc": "CON_1x2_2.54mm_THT",
+  "old_val": "1x2 2.54mm THT",
+  "mpn": "",
+  "mfr": "",
+  "value": "1x2 2.54mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_1x2_2.54mm_THT_ALT",
+  "desc": "CON_1x2_2.54mm_THT",
+  "old_val": "1x2 2.54mm THT",
+  "mpn": "",
+  "mfr": "",
+  "value": "1x2 2.54mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_1x3_2.54mm_THT",
+  "desc": "CON_1x3_2.54mm_THT",
+  "old_val": "1x3 2.54mm THT",
+  "mpn": "",
+  "mfr": "",
+  "value": "1x3 2.54mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_1x4_2.54mm_THT",
+  "desc": "CON_1x4_2.54mm_THT",
+  "old_val": "1x4 2.54mm THT",
+  "mpn": "",
+  "mfr": "",
+  "value": "1x4 2.54mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_1x4_2.54mm_THT_Bottom_Entry",
+  "desc": "CON_1x4_2.54mm_THT",
+  "old_val": "1x4 2.54mm THT",
+  "mpn": "",
+  "mfr": "",
+  "value": "1x4 2.54mm Bottom Entry",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "Tmall",
+    "https://detail.tmall.com/item.htm?id=797183413434&skuId=5954899691431"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_1x5_2.54mm_THT",
+  "desc": "CON_1x5_2.54mm_THT",
+  "old_val": "1x5 2.54mm",
+  "mpn": "",
+  "mfr": "",
+  "value": "1x5 2.54mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_1x6_2.54mm_THT",
+  "desc": "CON_1x6_2.54mm_THT",
+  "old_val": "1x6 2.54mm",
+  "mpn": "",
+  "mfr": "",
+  "value": "1x6 2.54mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_1x7_2.54mm_THT",
+  "desc": "CON_1x7_2.54mm_THT",
+  "old_val": "1x7 2.54mm",
+  "mpn": "",
+  "mfr": "",
+  "value": "1x7 2.54mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_1x8_2.54mm_THT",
+  "desc": "CON_1x8_2.54mm_THT",
+  "old_val": "1x8 2.54mm",
+  "mpn": "",
+  "mfr": "",
+  "value": "1x8 2.54mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x10_4.2mm_THT_F",
+  "desc": "CON_2x10_4.2mm_THT Straight Pin",
+  "old_val": "5557/5569 connector",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x10 4.2mm 5569-style F",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=557446625982&skuId=3456302328403"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x12_4.2mm_THT_F",
+  "desc": "CON_2x12_4.2mm_THT Straight Pin",
+  "old_val": "5557/5569 connector",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x12 4.2mm 5569-style F",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=557446625982&skuId=3642191258094"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x13_2.54mm_THT",
+  "desc": "CON_2x13_2.54mm_THT",
+  "old_val": "CON_2x13_2mm_THT",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x13 2.54mm",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=534188799238&sku_properties=1627207:2525007167"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": "val said 2mm ('CON_2x13_2mm_THT') but the component is 2.54mm."
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x13_2.54mm_THT_Long",
+  "desc": "CON_2x13_2.54mm_THT\r\n2cm Pins",
+  "old_val": "CON_2x13_2mm_THT",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x13 2.54mm Long Pins",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=733740487589&skuId=5077206449686"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": "val said 2mm ('CON_2x13_2mm_THT') but the component is 2.54mm."
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x15_1.27mm_SMD_F",
+  "desc": "CON_2x15_1.27mm SMD with positioning pegs",
+  "old_val": null,
+  "mpn": "",
+  "mfr": "",
+  "value": "2x15 1.27mm SMD F",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=990364773282&skuId=6122925414294"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x15_1.27mm_SMD_M",
+  "desc": "CON_2x15_1.27mm SMD with positioning pegs",
+  "old_val": null,
+  "mpn": "",
+  "mfr": "",
+  "value": "2x15 1.27mm SMD M",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=985696559710&skuId=5949382556207"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x30_2MM_F",
+  "desc": "CON_2x30_2MM_F",
+  "old_val": "CON_2x30_2MM_M",
+  "mpn": "2.0-2*30P",
+  "mfr": "BOOMELE",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C65178.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "LCSC gives the same part number (2.0-2*30P) for both F and M."
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x30_2MM_M",
+  "desc": "CON_2x30_2MM_M",
+  "old_val": "CON_2x30_2MM_M",
+  "mpn": "2.0-2*30P",
+  "mfr": "BOOMELE",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C42717.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "LCSC gives the same part number (2.0-2*30P) for both F and M."
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x3_1.27mm_SMD_F",
+  "desc": "CON_2x4_1.27mm SMD",
+  "old_val": "CON_2x3_1.27mm_SMD",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x3 1.27mm SMD F",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Tmall",
+    "https://detail.tmall.com/item.htm?id=542887739976&skuId=3428605315590"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x3_1.27mm_SMD_M",
+  "desc": "CON_2x4_1.27mm SMD",
+  "old_val": "https://item.taobao.com/item.htm?abbucket=7&id=985696559710&mi_id=0000wNGjyg2M_cesTe00ZVzz2no2EiD0zY1ZppcTPX7ewdU&ns=1&priceTId=2100c89217750301413374165e0cd5&spm=a21n57.imgsearch.item.2&utparam=%7B%22aplus_abtest%22%3A%221ace5186278ba47c5557f27108cb537b%22%7D&xxc=taobaoSearch&skuId=5949382556207",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x3 1.27mm SMD M",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=719795507717&skuId=5189291839743"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": "val held a Taobao URL (a different listing than the link); dropped it."
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x4_1.27mm_SMD_F",
+  "desc": "CON_2x4_1.27mm SMD with positioning pegs",
+  "old_val": "CON_2x4_1.27mm_SMD",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x4 1.27mm SMD F",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=990364773282&skuId=6122925414288"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x4_1.27mm_SMD_M",
+  "desc": "CON_2x4_1.27mm SMD with positioning pegs",
+  "old_val": "CON_2x4_1.27mm_SMD",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x4 1.27mm SMD M",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=985696559710&skuId=5949382556207"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x4_2.54mm_THT",
+  "desc": "CON_2x4_2.54mm_THT",
+  "old_val": "2x4 2.54mm THT",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x4 2.54mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x5_1.27mm_SMD_F",
+  "desc": "CON_2x5_1.27mm SMD with positioning pegs",
+  "old_val": "CON_2x5_1.27mm_SMD",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x5 1.27mm SMD F",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=990364773282&skuId=6122925414289"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x5_1.27mm_SMD_M",
+  "desc": "CON_2x5_1.27mm SMD with positioning pegs",
+  "old_val": "CON_2x5_1.27mm_SMD",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x5 1.27mm SMD M",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=985696559710&skuId=5949382556198"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x7_2.54mm_THT",
+  "desc": "CON_2x7_2.54mm_THT",
+  "old_val": "2x7 2.54mm",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x7 2.54mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_2x8_2.54mm_THT",
+  "desc": "CON_2x8_2.54mm_THT",
+  "old_val": "2x8 2.54mm",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x8 2.54mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_BLACK_2x10_3.5mm",
+  "desc": "300V -40â„ƒ~+105â„ƒ 8 10A Black 3.5mm Board Side/Socket - Closed 2 2x8P Straight Pin Through Hole,P=3.5mm Headers, Plugs and Sockets RoHS",
+  "old_val": "KF2EDGSV-3.5-2*8P",
+  "mpn": "",
+  "mfr": "",
+  "value": "KF2EDGSV 2x10P 3.5mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=654108697549&sku_properties=1627207:402630518"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": "val said 2*8P for every size; used the size from the component name."
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_BLACK_2x6_3.5mm",
+  "desc": "300V -40â„ƒ~+105â„ƒ 8 10A Black 3.5mm Board Side/Socket - Closed 2 2x8P Straight Pin Through Hole,P=3.5mm Headers, Plugs and Sockets RoHS",
+  "old_val": "KF2EDGSV-3.5-2*8P",
+  "mpn": "",
+  "mfr": "",
+  "value": "KF2EDGSV 2x6P 3.5mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=654108697549&skuId=4896664375707"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": "val said 2*8P for every size; used the size from the component name."
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_BLACK_2x8_3.5mm",
+  "desc": "300V -40â„ƒ~+105â„ƒ 8 10A Black 3.5mm Board Side/Socket - Closed 2 2x8P Straight Pin Through Hole,P=3.5mm Headers, Plugs and Sockets RoHS",
+  "old_val": "KF2EDGSV-3.5-2*8P",
+  "mpn": "",
+  "mfr": "",
+  "value": "KF2EDGSV 2x8P 3.5mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=654108697549&skuId=4896664375717"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_BLACK_2x9_3.5mm",
+  "desc": "300V -40â„ƒ~+105â„ƒ 8 10A Black 3.5mm Board Side/Socket - Closed 2 2x8P Straight Pin Through Hole,P=3.5mm Headers, Plugs and Sockets RoHS",
+  "old_val": "KF2EDGSV-3.5-2*8P",
+  "mpn": "",
+  "mfr": "",
+  "value": "KF2EDGSV 2x9P 3.5mm",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=654108697549&sku_properties=1627207:387614636"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": "val said 2*8P for every size; used the size from the component name."
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_IDC_2x10_2.00",
+  "desc": "IDC Connector 2x10 2.00mm",
+  "old_val": "CON_10x2_2mm",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x10 2.00mm IDC",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=534188799238&sku_properties=1627207:2525007165"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_IDC_2x13_2.00",
+  "desc": "IDC Connector 2x13 2.00mm",
+  "old_val": "CON_2x13_2mm_THT",
+  "mpn": "",
+  "mfr": "",
+  "value": "2x13 2.00mm IDC",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=534188799238&sku_properties=1627207:2525007167"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "CON_IDC_2x6_2.54",
+  "desc": "IDC Connector 2x6 2.54mm pitch",
+  "old_val": "BOOMELE(Boom Precision Elec) 2.54-2*6P",
+  "mpn": "2.54-2*6P",
+  "mfr": "BOOMELE",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C9136.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "Coincell 2032 - BS-2-1",
+  "desc": "Coincell 2032 - BS-2-1",
+  "old_val": "BS-2-1",
+  "mpn": "BS-2-1",
+  "mfr": "",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=38536074730"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "Taobao part; BS-2-1 kept as part number, manufacturer unknown."
+ },
+ {
+  "lib": "Connectors",
+  "ref": "HL2-SMA-KE-15",
+  "desc": "SMA Connector - Through Hole Coaxial Connector (RF) Adapters RoHS",
+  "old_val": "HenryTech HL2-SMA-KE-15",
+  "mpn": "HL2-SMA-KE-15",
+  "mfr": "HenryTech",
+  "value": "",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C53278699.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "HR911105A",
+  "desc": "CONN MOD JACK RJ45 TH",
+  "old_val": "HR911105A",
+  "mpn": "HR911105A",
+  "mfr": "HanRun",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C12074.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "JST XH2.54mm 1x3",
+  "desc": "Connector Header 3 position 2.54mm Pitch 3A Through Hole -25â„ƒ~+85â„ƒ",
+  "old_val": "HX-XH2.54-3PZZ",
+  "mpn": "HX-XH2.54-3PZZ",
+  "mfr": "Hanxia",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C42391661.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "JST XH2.54mm 1x4",
+  "desc": "Connector Header 4 position 2.54mm Pitch 3A Through Hole -25â„ƒ~+85â„ƒ",
+  "old_val": "HX-XH2.54-4PZZ",
+  "mpn": "HX-XH2.54-4PZZ",
+  "mfr": "Hanxia",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C42391662.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "JST XH2.54mm 1x8",
+  "desc": "Connector Header 8 position 2.5mm Pitch 3A Through Hole -25â„ƒ~+85â„ƒ",
+  "old_val": "HX 2.54mm-8P ZZ",
+  "mpn": "HX 2.54mm-8P ZZ",
+  "mfr": "Hanxia",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C7543437.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "MICROSIM_Holder_MOLEX",
+  "desc": "8 (6 + 2) Position Card Connector Micro SIM Surface Mount, Right Angle Gold",
+  "old_val": "5039600696",
+  "mpn": "5039600696",
+  "mfr": "Molex",
+  "value": "",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C132719.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "PCB Grounding Lug",
+  "desc": "6.3 Solderable PCB Circuit Board Double-Legged Terminal Block, All-Copper Tin-Plated Terminal, DJ6111, 100 Pieces Per Pack",
+  "old_val": "DJ6116-6.3*0.8",
+  "mpn": "DJ6116-6.3*0.8",
+  "mfr": "",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=21594604895&skuId=5210790142166"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "Taobao part; kept DJ6116 type code as part number, manufacturer unknown."
+ },
+ {
+  "lib": "Connectors",
+  "ref": "RJ45-90Degree-4Port",
+  "desc": "Jack Modular Connector RJ45 Through Hole, Right Angle Shielded",
+  "old_val": "HCTL HC-RJ45-5JA-4-2",
+  "mpn": "HC-RJ45-5JA-4-2",
+  "mfr": "HCTL",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C3000183.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "RJ45_90Deg",
+  "desc": "Jack Modular Connector RJ45 Through Hole, Right Angle Shielded",
+  "old_val": "Rj45 socket, 8p8c full, horizontal",
+  "mpn": "R-RJ45R10P-B000",
+  "mfr": "Ckmtw",
+  "value": "",
+  "note_old": "Good Quality",
+  "note_new": "Good Quality",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C386758.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "val was a description; part number taken from the LCSC link."
+ },
+ {
+  "lib": "Connectors",
+  "ref": "RJ45_90Deg_HCTL",
+  "desc": "Jack Modular Connector RJ45 Through Hole, Right Angle Shielded",
+  "old_val": "HCTL HC-RJ45-5JA-1-2",
+  "mpn": "HC-RJ45-5JA-1-2",
+  "mfr": "HCTL",
+  "value": "",
+  "note_old": "",
+  "note_new": "",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C3000172.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "TP",
+  "desc": "",
+  "old_val": null,
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": null,
+  "note_new": null,
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "USB-TypeA",
+  "desc": "USB-A (USB TYPE-A) Receptacle Connector 4 Position Right Angle",
+  "old_val": "Ckmtw U-USBAR04P-F001",
+  "mpn": "U-USBAR04P-F001",
+  "mfr": "Ckmtw",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C3025487.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "USB-TypeA_Vertical",
+  "desc": "USB-A (USB TYPE-A) Receptacle Connector 4 Position Vertical, Flag",
+  "old_val": "USB-226-BRY",
+  "mpn": "USB-226-BRY",
+  "mfr": "XUNPU",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C720523.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Connectors",
+  "ref": "USB-TypeC",
+  "desc": "USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount, Right Angle",
+  "old_val": "SHOU HAN TYPE-C 16PIN 2MD(073)",
+  "mpn": "TYPE-C 16PIN 2MD(073)",
+  "mfr": "SHOU HAN",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C2765186.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Crystals",
+  "ref": "Crystal Oscillators X50322712MSB2GI",
+  "desc": "Crystal 27.12MHz Â±10ppm 20pF SMD5032-2P",
+  "old_val": "X50322712MSB2GI",
+  "mpn": "X50322712MSB2GI",
+  "mfr": "YXC",
+  "value": "27.12MHz",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C157343.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Crystals",
+  "ref": "MC146_32.768KHz",
+  "desc": "MC146_32.768KHz",
+  "old_val": "MC-146 32.7680KA-A0:ROHS",
+  "mpn": "MC-146 32.7680KA-A0:ROHS",
+  "mfr": "Epson",
+  "value": "32.768kHz",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C108685.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "MC146_32.768KHz",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "LCSC link points to a different part (Seiko SSP-T7-F). Kept the Epson MC-146 from val."
+ },
+ {
+  "lib": "Crystals",
+  "ref": "NDK NX2016SA-25MHZ-STD-CZS-2",
+  "desc": "8pF Â±15ppm SMD2016-4P Crystals RoHS",
+  "old_val": "NDK NX2016SA-25MHZ-STD-CZS-2",
+  "mpn": "NX2016SA-25MHZ-STD-CZS-2",
+  "mfr": "NDK",
+  "value": "25MHz",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C843258.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Crystals",
+  "ref": "TOGNJING XTF32032768JT00351011",
+  "desc": "32.768 kHz Ã‚Â±20ppm Crystal 12.5pF 70 kOhms 2-SMD, No Lead",
+  "old_val": "TOGNJING XTF32032768JT00351011",
+  "mpn": "XTF32032768JT00351011",
+  "mfr": "TOGNJING",
+  "value": "32.768kHz",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C37635363.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Diodes",
+  "ref": "ESD5Z5.0T1G",
+  "desc": "18.6VC Clamp 9.4A Ipp ESD DIODE SOD-523",
+  "old_val": "ESD5Z5.0",
+  "mpn": "ESD5Z5.0",
+  "mfr": "AnBon",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C397782.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Diodes",
+  "ref": "ESDA6V1-5W6",
+  "desc": "12VC Clamp 11A@8/20us Ipp SOT-363",
+  "old_val": "TECH PUBLIC ESDA6V1-5W6-TP",
+  "mpn": "ESDA6V1-5W6-TP",
+  "mfr": "TECH PUBLIC",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C970031.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Diodes",
+  "ref": "ESDA6V1-5W6_1",
+  "desc": "6.1VC Clamp 200mA Ipp ESD DIODE SOT-323-6L",
+  "old_val": "ST ESDA6V1-5W6",
+  "mpn": "ESDA6V1-5W6",
+  "mfr": "STMicroelectronics",
+  "value": "",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C87908.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Diodes",
+  "ref": "RCLAMP0502B.TCT",
+  "desc": "TVS DIODE 5VWM 18VC SOT-666-6",
+  "old_val": "SEMTECH RCLAMP0502B.TCT",
+  "mpn": "RCLAMP0502B.TCT",
+  "mfr": "Semtech",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C76390.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Diodes",
+  "ref": "SLVU2.8-4BTG",
+  "desc": "TVS DIODE 2.8VWM 15VC SOIC-8",
+  "old_val": "SLVU2.8-4BTG",
+  "mpn": "SLVU2.8-4BTG",
+  "mfr": "Littelfuse",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C2763559.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "SLVU2.8-4BTG",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Diodes",
+  "ref": "SMBJ58A-13-F",
+  "desc": "93.6VC Clamp 6.4A Ipp TVS DIODE SMB",
+  "old_val": "DIODES SMBJ58A-13-F",
+  "mpn": "SMBJ58A-13-F",
+  "mfr": "Diodes Incorporated",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C135085.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Diodes",
+  "ref": "SMF5.0CA",
+  "desc": "9.2VC Clamp 21.7A@10/1000us Ipp TVS DIODE SOD-123FL",
+  "old_val": "R+O SMF5.0CA",
+  "mpn": "SMF5.0CA",
+  "mfr": "R+O",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C19077498.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Diodes",
+  "ref": "SS16",
+  "desc": "Independent 60V 700mV@1A 1A SMA(DO-214AC) Single Diodes RoHS",
+  "old_val": "SS16",
+  "mpn": "SS16",
+  "mfr": "GOODWORK",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C2943739.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Diodes",
+  "ref": "SS510F",
+  "desc": "100V 850mV@5A 5A SMAF Schottky Diodes ROHS",
+  "old_val": "SS510F",
+  "mpn": "SS510F",
+  "mfr": "XUMAO",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C22466253.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "ADM3202ARNZ",
+  "desc": "ADM3202ARNZ",
+  "old_val": "ADM3202ARNZ",
+  "mpn": "ADM3202ARNZ",
+  "mfr": "Analog Devices",
+  "value": "",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C496498.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "CLRC66303HNE",
+  "desc": "ISO 14443A,ISO 14443B,MIFARE I2C,SPI,UART HVQFN-32-EP(5x5) RFID, RF Access, Monitoring ICs RoHS",
+  "old_val": "NXP CLRC66303HNE",
+  "mpn": "CLRC66303HNE",
+  "mfr": "NXP",
+  "value": "",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C468447.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "CP2102N-A02-GQFN28R",
+  "desc": "USB to UART USB 2.0 QFN-28-EP(5x5) Interface Controllers RoHS",
+  "old_val": "SILICON LABS CP2102N-A02-GQFN28R",
+  "mpn": "CP2102N-A02-GQFN28R",
+  "mfr": "Silicon Labs",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C964632.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "ESP32-S3-WROOM-1-N16R2",
+  "desc": "2.4GHz ESP32-S3 On-board PCB Antenna -103.5dBm SMD,25.5x18mm RF Transceiver Modules and Modems RoHS",
+  "old_val": "ESPRESSIF ESP32-S3-WROOM-1-N16R2",
+  "mpn": "ESP32-S3-WROOM-1-N16R2",
+  "mfr": "Espressif",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C2913205.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "HLK-7688A",
+  "desc": "MT7688AN Chip -89.5dBm SMD,32.8x18mm RF Transceiver Modules and Modems RoHS",
+  "old_val": "HI-LINK HLK-7688A",
+  "mpn": "HLK-7688A",
+  "mfr": "Hi-Link",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=539321243420"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "ISO7721DR",
+  "desc": "100kV/us SOIC-8 Digital Isolators RoHS",
+  "old_val": "TI ISO7721DR",
+  "mpn": "ISO7721DR",
+  "mfr": "Texas Instruments",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C366164.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "LAN Transformer",
+  "desc": "350uH 10/100 Base-T LAN Transformer 1CT:1CT Surface Mount-16P,12.7x7.1mm",
+  "old_val": "H1601CE",
+  "mpn": "H1601CE",
+  "mfr": "Mentech",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C2904701.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "STM32F103CBT6",
+  "desc": "ARMÃ‚Â® CortexÃ‚Â®-M3 STM32F1 Microcontroller IC 32-Bit Single-Core 72MHz 128KB (128K x 8) FLASH",
+  "old_val": "STM32F103CBT6",
+  "mpn": "STM32F103CBT6",
+  "mfr": "STMicroelectronics",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C8304.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "STM32H562VGT6",
+  "desc": "High-performance, Arm Cortex-M33 with TrustZone, MCU with 1-MByte Flash, 640-Kbyte RAM, 250 MHz CPU",
+  "old_val": "STM32H562VGT6",
+  "mpn": "STM32H562VGT6",
+  "mfr": "STMicroelectronics",
+  "value": "",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C22452133.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "STM32H573VIT6",
+  "desc": "High-performance, Arm Cortex-M33 with TrustZone, MCU with 1-MByte Flash, 640-Kbyte RAM, 250 MHz CPU",
+  "old_val": "STM32H573VIT6",
+  "mpn": "STM32H573VIT6",
+  "mfr": "STMicroelectronics",
+  "value": "",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C7545121.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "TCA9548APWR",
+  "desc": "1.65V~5.5V 400Kbps TSSOP-24 Signal Switches, Multiplexers, Decoders RoHS",
+  "old_val": "TI TCA9548APWR",
+  "mpn": "TCA9548APWR",
+  "mfr": "Texas Instruments",
+  "value": "",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C130026.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "TLP291-4GB-TP,ET",
+  "desc": "4-Channel Optocoupler",
+  "old_val": "TLP291-4(GB-TP,E(T",
+  "mpn": "TLP291-4(GB-TP,E)",
+  "mfr": "Toshiba",
+  "value": "",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C60900.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "val had a typo 'TLP291-4(GB-TP,E(T'; used LCSC's spelling."
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "TXB0101DBVR",
+  "desc": "1-Bit Bidirectional Voltage-Level Shifter With Auto Direction Sensing and +/-15-kV ESD Protect",
+  "old_val": "TXB0101DBVR",
+  "mpn": "TXB0101DBVR",
+  "mfr": "Texas Instruments",
+  "value": "",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C2652944.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "TXS0108EPWR",
+  "desc": "8-bit bidirectional voltage-level shifter for open-drain and push-pull application",
+  "old_val": "TXS0108EPWR",
+  "mpn": "TXS0108EPWR",
+  "mfr": "Texas Instruments",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C17206.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Digital",
+  "ref": "W25Q128FVSIG",
+  "desc": "FLASH - NOR Memory IC 128Mbit SPI - Quad I/O, QPI 104 MHz 8-SOIC from Winbond Electronics.",
+  "old_val": "W25Q128FVSIG",
+  "mpn": "W25Q128FVSIG",
+  "mfr": "Winbond",
+  "value": "",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C113767.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "LCSC link is W25Q128JVSIQ (newer JV variant), not the FV in val. Kept val."
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "B0303S-1WR3",
+  "desc": "Isolated Module DC DC Converter 3.3V 303mA 2.97V~3.63V Input",
+  "old_val": "EVISUN B0303S-1WR3",
+  "mpn": "B0303S-1WR3",
+  "mfr": "EVISUN",
+  "value": "",
+  "note_old": "",
+  "note_new": "",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C7465185.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "B0505S-1W",
+  "desc": "Isolated Module DC DC Converter 1 Output 5V 200mA 4.5V~5.5V Input",
+  "old_val": "RLT B0505S-1W",
+  "mpn": "B0505S-1W",
+  "mfr": "RLT",
+  "value": "",
+  "note_old": "from link",
+  "note_new": "from link",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C512032.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "MAX38888ATD+T",
+  "desc": "Supercapacitor 600mA TDFN-14-EP(3x3) Battery Management RoHS",
+  "old_val": "MAXIM MAX38888ATD+T",
+  "mpn": "MAX38888ATD+T",
+  "mfr": "Analog Devices (Maxim)",
+  "value": "",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C2931491.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "datasheet",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "MCP1700T-3302E/TT",
+  "desc": "MCP1700T-3302E/TT",
+  "old_val": "MCP1700T-3302E/TT",
+  "mpn": "MCP1700T-3302E/TT",
+  "mfr": "Microchip",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C39051.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "MCP73833-AMI/MF",
+  "desc": "Stand-Alone Linear Li-Ion / Li-Polymer Charge Management Controller",
+  "old_val": "MCP73833-AMI/MF",
+  "mpn": "MCP73833-AMI/MF",
+  "mfr": "Microchip",
+  "value": "",
+  "note_old": "original",
+  "note_new": "original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C635264.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "MIC29302WU",
+  "desc": "Linear Voltage Regulator IC Positive Adjustable 1 Output 3A TO-263-5",
+  "old_val": "MIC29302WU",
+  "mpn": "MIC29302WU",
+  "mfr": "Microchip",
+  "value": "",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C2995533.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "LCSC link is a UMW clone (MIC29302WU(UMW)). Kept Microchip as manufacturer."
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "MIC39100_SOT223",
+  "desc": "LDO; \r\n2.25V -> 16V;\r\n1A Max; \r\nFixed Output - 1.8V, 2.5V, 3.3V, 5V",
+  "old_val": "MIC39100-3.3WS",
+  "mpn": "MIC39100-3.3WS",
+  "mfr": "Microchip",
+  "value": "",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C48252.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "LCSC link is a different part (MaxLinear SPX3940AM3-L-3-3/TR). Kept val."
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "TI LMR16030SDDAR",
+  "desc": "60V 3A Step-Down Converter\r\n\r\n2.5MHz Buck Adjustable 1 SO-8-EP Voltage Regulators - DC DC Switching Regulators RoHS",
+  "old_val": "LMR16030SDDAR",
+  "mpn": "LMR16030SDDAR",
+  "mfr": "Texas Instruments",
+  "value": "",
+  "note_old": "original",
+  "note_new": "original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C136648.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "TI TPS2121RUXR",
+  "desc": "2.8-V to 22-V Priority Power MUX with Seamless Switchover",
+  "old_val": "TI TPS2121RUXR",
+  "mpn": "TPS2121RUXR",
+  "mfr": "Texas Instruments",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C485916.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "TI TPS23861PWR",
+  "desc": "Power Sourcing Equipment (PSE) 25.5W TSSOP-28 Power Over Ethernet (PoE) Controllers RoHS",
+  "old_val": "TI TPS23861PWR",
+  "mpn": "TPS23861PWR",
+  "mfr": "Texas Instruments",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C93245.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "TI TPS61023DRLR",
+  "desc": "3.7A boost converter with an ultra-low input voltage of 0.5V",
+  "old_val": "TI TPS61023DRLR",
+  "mpn": "TPS61023DRLR",
+  "mfr": "Texas Instruments",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C919459.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "TLV62569DBVR",
+  "desc": "1.5MHz Step-down type Adjustable 600mV~5.5V 2A SOT-23-5 Voltage Regulators - DC DC Switching Regulators RoHS",
+  "old_val": "TLV62569DBVR",
+  "mpn": "TLV62569DBVR",
+  "mfr": "Texas Instruments",
+  "value": "",
+  "note_old": "original",
+  "note_new": "original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C141836.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "TPS61088RHLR",
+  "desc": "Fully Integrated Synchronous Boost Converter",
+  "old_val": "TI TPS61088RHLR",
+  "mpn": "TPS61088RHLR",
+  "mfr": "Texas Instruments",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C87357.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "IC_Power",
+  "ref": "USB - Load Switch",
+  "desc": "1 Active High 2A Load Switch SOT-23-5 Power Distribution Switches, Load Drivers RoHS",
+  "old_val": "Silergy SY6288CAAC",
+  "mpn": "SY6288CAAC",
+  "mfr": "Silergy",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C111830.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Other",
+  "ref": "TMB12A05",
+  "desc": "TMB12A05 5V active buzzer",
+  "old_val": "TMB12A05",
+  "mpn": "TMB12A05",
+  "mfr": "Huaneng",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C96093.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "5050_RGB_LED_SMD",
+  "desc": "120Â° SMD5050-6P LED Indication - Discrete RoHS",
+  "old_val": "XINGLIGHT XL-5050RGBC",
+  "mpn": "XL-5050RGBC",
+  "mfr": "XINGLIGHT",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C2843868.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "ACM2012-201-2P-T002",
+  "desc": "2 Line Common Mode Choke Surface Mount 200 Ohms @ 100MHz 350mA DCR 250mOhm",
+  "old_val": "ACM2012-201-2P-T002",
+  "mpn": "ACM2012-201-2P-T002",
+  "mfr": "TDK",
+  "value": "200Ohm@100MHz 350mA",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C19972.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "LCSC link is ACM2012-900 (90 Ohm), not -201. Kept val."
+ },
+ {
+  "lib": "Passives",
+  "ref": "CAP_0402",
+  "desc": "CAP_0402",
+  "old_val": "",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "CAP_0603",
+  "desc": "CAP_0603",
+  "old_val": "*",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "CAP_0805",
+  "desc": "CAP_0805",
+  "old_val": "*",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "CAP_1206",
+  "desc": "CAP_1206",
+  "old_val": "*",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "CAP_1210",
+  "desc": "CAP_1210",
+  "old_val": "*",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "CAP_1812",
+  "desc": "CAP_1812",
+  "old_val": "*",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "CAP_2512",
+  "desc": "CAP_2512",
+  "old_val": "*",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "CAP_CAN_D10mm",
+  "desc": "SMD Can Capacitor; 10mm Diameter",
+  "old_val": "47uf 100v",
+  "mpn": "RVT2A470M1010",
+  "mfr": "ROQANG",
+  "value": "47uF 100V",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C335988.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "CAP_CAN_D5mm",
+  "desc": "SMD Can Capacitor; 5mm Diameter",
+  "old_val": "10uf",
+  "mpn": "RVT1C100M0405",
+  "mfr": "Honor Elec",
+  "value": "10uF 16V",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C3357.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "val said '10uf' with no voltage; 16V taken from the linked RVT1C part."
+ },
+ {
+  "lib": "Passives",
+  "ref": "CAP_CAN_D6.3mm",
+  "desc": "SMD Can Capacitor; 6.3mm Diameter",
+  "old_val": "470uF 10V",
+  "mpn": "RVT1C471M0607",
+  "mfr": "ROQANG",
+  "value": "470uF 16V",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C2977552.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "val said 10V but the linked RVT1C471 part is 16V. Please confirm."
+ },
+ {
+  "lib": "Passives",
+  "ref": "CDA CBSV - Coin Supercap",
+  "desc": "CDA CBSV Series Button/Coin Supercapacitor",
+  "old_val": "3.6V 0.22F-V Type",
+  "mpn": "",
+  "mfr": "CDA",
+  "value": "0.22F 3.6V",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=783033798124&skuId=5349500677222"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": "Taobao part; CBSV series, exact part number unknown."
+ },
+ {
+  "lib": "Passives",
+  "ref": "DLM0NSN900HY2D",
+  "desc": "2 Line Common Mode Choke Surface Mount 90 Ohms @ 100MHz 100mA DCR 5Ohm",
+  "old_val": "DLM0NSN900HY2D",
+  "mpn": "DLM0NSN900HY2D",
+  "mfr": "Murata",
+  "value": "90Ohm@100MHz 100mA",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C882594.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "*",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "Fuse_1206",
+  "desc": "Fuse_1206",
+  "old_val": "",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "https://item.taobao.com/item.htm?abbucket=8&id=562837668942&ns=1&spm=a230r.1.14.1.30d440c1oWmyxt",
+  "note_new": "",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=562837668942"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": "Taobao URL was in note; moved to a link and cleared note."
+ },
+ {
+  "lib": "Passives",
+  "ref": "IND_1008_SMD_1UF_3.3A",
+  "desc": "3.3A 1uH 4.7A 40mÎ© Â±20% 1008 Fixed Inductors RoHS",
+  "old_val": "muRata DFE252012F-1R0M=P2",
+  "mpn": "DFE252012F-1R0M=P2",
+  "mfr": "Murata",
+  "value": "1uH 3.3A",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C435392.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "IND_1210_Choke",
+  "desc": "Precision Wire Wound Inductor, 2-Leads, Body 4,50x4,00mm, IPC Medium Density",
+  "old_val": "TDK TFM322512ALMA100MTAA",
+  "mpn": "TFM322512ALMA100MTAA",
+  "mfr": "TDK",
+  "value": "10uH",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C2047632.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "Current rating not in the description; Value has inductance only."
+ },
+ {
+  "lib": "Passives",
+  "ref": "IND_FXL06",
+  "desc": "Precision Wire Wound Inductor, 2-Leads, Body 4,50x4,00mm, IPC Medium Density",
+  "old_val": "FXL0630-8R2-M",
+  "mpn": "FXL0630-8R2-M",
+  "mfr": "CJiang",
+  "value": "8.2uH",
+  "note_old": "original",
+  "note_new": "original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C167222.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": "Current rating not in the description; Value has inductance only."
+ },
+ {
+  "lib": "Passives",
+  "ref": "Kyocera AVX TAJE477K010RNJ",
+  "desc": "470uF Â±10% 10V Tantalum Capacitors 500mÎ©@100kHz CASE-E-7343-43(mm)",
+  "old_val": "470uF 10V",
+  "mpn": "TAJE477K010RNJ",
+  "mfr": "Kyocera AVX",
+  "value": "470uF 10V",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C7234.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "LED_0402",
+  "desc": "LED_0402",
+  "old_val": null,
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": null,
+  "note_new": null,
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "LED_0402",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "LED_0603",
+  "desc": "LED_0603",
+  "old_val": null,
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": null,
+  "note_new": null,
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "LED_0603",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "LED_0805",
+  "desc": "LED_0805",
+  "old_val": null,
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": null,
+  "note_new": null,
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "LED_0805",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "LIC1620Q3R8257",
+  "desc": "250 F (EDLC) Supercapacitor 3.8 V Radial, Can 50mOhm @ 1kHz 1000 Hrs @ 85Â°C",
+  "old_val": "LIC1620Q3R8257",
+  "mpn": "LIC1620Q3R8257",
+  "mfr": "",
+  "value": "250F 3.8V",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=738986121672&skuId=5097180376418"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "MetalLions MNR5020T2R2MT",
+  "desc": "2.9A 2.2uH Â±20% 4A 32mÎ© Magnetic Shielded Inductor SMD,5x5mm Fixed Inductors RoHS",
+  "old_val": "MetalLions MNR5020T2R2MT",
+  "mpn": "MNR5020T2R2MT",
+  "mfr": "MetalLions",
+  "value": "2.2uH 2.9A",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C18222052.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "NLV32T-1R0J-EF",
+  "desc": "FIXED IND 1uH 400mA 700mÎ© 1210",
+  "old_val": "TDK NLV32T-1R0J-EF",
+  "mpn": "NLV32T-1R0J-EF",
+  "mfr": "TDK",
+  "value": "1uH 400mA",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C286755.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "NLV32T-R47J-PF",
+  "desc": "450mA 470nH 500mÎ© Magnetic Shielded Inductor Â±5% 1210 Fixed Inductors RoHS",
+  "old_val": "TDK NLV32T-R47J-PF",
+  "mpn": "NLV32T-R47J-PF",
+  "mfr": "TDK",
+  "value": "470nH 450mA",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C89029.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "RES_0402",
+  "desc": "RES_0402",
+  "old_val": "*",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "RES_0603",
+  "desc": "RES_0603",
+  "old_val": "*",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "RES_0805",
+  "desc": "RES_0805",
+  "old_val": "*",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "RES_1206",
+  "desc": "RES_1206",
+  "old_val": "*",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "RES_2512",
+  "desc": "RES_2512",
+  "old_val": "*",
+  "mpn": "",
+  "mfr": "",
+  "value": "",
+  "note_old": "any manufacturer",
+  "note_new": "any manufacturer",
+  "links": [],
+  "dropped": [
+   "unit price"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Value",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "T520A107M006ATE070",
+  "desc": "100uF Â±20% 6.3V Tantalum Capacitors 70mÎ©@100kHz CASE-A-3216-18(mm)",
+  "old_val": "100uF 6.3V",
+  "mpn": "T520A107M006ATE070",
+  "mfr": "KEMET",
+  "value": "100uF 6.3V",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C561794.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "TZC3P200A110R00",
+  "desc": "250@1MHz 5.8pF~20pF 0%~+50% 100V SMD,4.5x3.2mm Trimmers, Variable Capacitors RoHS",
+  "old_val": "SEHWA STC3MD20-T1",
+  "mpn": "STC3MD20-T1",
+  "mfr": "SEHWA",
+  "value": "5.8-20pF 100V",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C22468122.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "Worldsemi WS2812B-B/W",
+  "desc": "Intelligent control LED integrated light source",
+  "old_val": "Worldsemi WS2812B-B/W",
+  "mpn": "WS2812B-B/W",
+  "mfr": "Worldsemi",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C114586.html"
+   ]
+  ],
+  "dropped": [
+   "price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Passives",
+  "ref": "cjiang FXL0530-2R2-M",
+  "desc": "FIXED IND 2.2uH 7A 29mÎ© SMD,5.2x5.4mm",
+  "old_val": "cjiang FXL0530-2R2-M",
+  "mpn": "FXL0530-2R2-M",
+  "mfr": "CJiang",
+  "value": "2.2uH 7A",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C177247.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Transistors_Relays",
+  "ref": "2SC4617TLQ",
+  "desc": "NPN - Bipolar (BJT) Transistor 50V 150mA 180MHz 200mW Surface Mount SOT-416",
+  "old_val": "2SC4617TLQ",
+  "mpn": "2SC4617TLQ",
+  "mfr": "ROHM",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C308648.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Transistors_Relays",
+  "ref": "BSS138LT1G",
+  "desc": "N-Channel 50 V 200mA (Ta) 225mW (Ta) Surface Mount SOT-23-3 (TO-236)",
+  "old_val": "onsemi BSS138LT1G",
+  "mpn": "BSS138LT1G",
+  "mfr": "onsemi",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C82045.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Transistors_Relays",
+  "ref": "BSS84LT1G",
+  "desc": "P-Channel 50V 130mA 225mW Surface Mount SOT-23",
+  "old_val": "onsemi BSS84LT1G",
+  "mpn": "BSS84LT1G",
+  "mfr": "onsemi",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C82079.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Transistors_Relays",
+  "ref": "DMN3404L-7",
+  "desc": "N-Channel 30V 5.8A 1.4W Surface Mount SOT-23",
+  "old_val": "DMN3404L-7",
+  "mpn": "DMN3404L-7",
+  "mfr": "Diodes Incorporated",
+  "value": "",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C155257.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Transistors_Relays",
+  "ref": "DMP3098L-7",
+  "desc": "P-Channel 30V 3.8A 1.08W Surface Mount SOT-23",
+  "old_val": "DIODES DMP3098L-7",
+  "mpn": "DMP3098L-7",
+  "mfr": "Diodes Incorporated",
+  "value": "",
+  "note_old": "Original",
+  "note_new": "Original",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C150492.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Transistors_Relays",
+  "ref": "DTC043ZEBTL",
+  "desc": "NPN - Pre-Biased Bipolar Transistor (BJT) - Pre-Biased 50 V 100 mA 250 MHz 150 mW Surface Mount EMT3F (SOT-416FL)",
+  "old_val": "DTC043ZEBTL",
+  "mpn": "DTC043ZEBTL",
+  "mfr": "ROHM",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C96459.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Transistors_Relays",
+  "ref": "FDMC3612",
+  "desc": "N-Channel 100V 12A 35W Surface Mount Power-33",
+  "old_val": "onsemi FDMC3612",
+  "mpn": "FDMC3612",
+  "mfr": "onsemi",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C455160.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Transistors_Relays",
+  "ref": "ME4925-G",
+  "desc": "P-Channel 30V 6.3A 1.3W Surface Mount SOP-8",
+  "old_val": "MATSUKI ME4925-G",
+  "mpn": "ME4925-G",
+  "mfr": "MATSUKI",
+  "value": "",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C709762.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Transistors_Relays",
+  "ref": "Relay_SRS",
+  "desc": "Relay",
+  "old_val": "SRS-05VDC-SL",
+  "mpn": "SRS-05VDC-SL",
+  "mfr": "Songle",
+  "value": "",
+  "note_old": "from link",
+  "note_new": "from link",
+  "links": [
+   [
+    "Taobao",
+    "https://item.taobao.com/item.htm?id=584207393810&sku_properties=1627207:124880741"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Transistors_Relays",
+  "ref": "SI2333CDS-T1-GE3",
+  "desc": "P-Channel 12 V 7.1A (Tc) 1.25W (Ta), 2.5W (Tc) Surface Mount SOT-23-3 (TO-236)",
+  "old_val": "SI2333CDS-T1-GE3",
+  "mpn": "SI2333CDS-T1-GE3",
+  "mfr": "Vishay",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C48179.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Transistors_Relays",
+  "ref": "SLA-05VDC-SL-A",
+  "desc": "RELAY POWER SPST-NO 30A 5V\r\n\r\nPower Relay 1 Form A: 1A (SPST-NO) 5V Coil Through Hole,27.6x32mm",
+  "old_val": "Songle Relay SLA-05VDC-SL-A",
+  "mpn": "SLA-05VDC-SL-A",
+  "mfr": "Songle",
+  "value": "",
+  "note_old": null,
+  "note_new": null,
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C250645.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ },
+ {
+  "lib": "Transistors_Relays",
+  "ref": "VISHAY SI7129DN-T1-GE3",
+  "desc": "MOSFET P-CH 30V 35A PowerPAK1212-8",
+  "old_val": "SI7129DN-T1-GE3",
+  "mpn": "SI7129DN-T1-GE3",
+  "mfr": "Vishay",
+  "value": "",
+  "note_old": "*",
+  "note_new": "*",
+  "links": [
+   [
+    "LCSC",
+    "https://www.lcsc.com/product-detail/C727679.html"
+   ]
+  ],
+  "dropped": [
+   "unit price",
+   "sample link"
+  ],
+  "comment_old": "=val",
+  "comment_new": "=Manufacturer Part Number",
+  "flag": ""
+ }
+]
