@@ -33,6 +33,16 @@ python tools/verify_add.py <src.SchLib> <src.PcbLib> SchLib/<Lib>.SchLib PCBLib/
 
 `verify_add.py` checks that nothing else in either library changed. `PART` holds the last part added (STM32H562RGT6).
 
+## Adding a part from an existing symbol
+
+`clone_part.py` adds a part by copying a component already in the same SchLib (same symbol, new name, description, Design Item ID, parameters, links and UniqueIDs), with optional pin-designator remapping, and links an existing footprint by name. No PcbLib change. Edit `PART` at the top, then:
+
+```
+python tools/clone_part.py SchLib/<Lib>.SchLib <out_dir>
+```
+
+`PART` holds the last part added (BAS116,215, cloned from SS16, pins remapped to SOT-23 pads 1 = A / 3 = K, footprint `SOT-23-3` from IC_Power).
+
 The verify scripts check the result against the given source folder, so they only pass for the step they belong to. To re-run one, first restore the source files from the commit before that step.
 
 `extract.py <out.json>` (run from the repo root) dumps every component's parameters to JSON.
