@@ -16,21 +16,21 @@ import cfb, migrate as m
 from apply_fp import name_block, read_name_block, kv_stream_get, kv_stream_set
 
 PART = dict(
-    src_comp="STM32H562RGT6",
-    name="STM32H562RGT6",
-    desc="MCU ARM Cortex-M33 250MHz 1MB Flash 640KB RAM, LQFP-64",
+    src_comp="LIS2DW12TR",
+    name="LIS2DW12TR",
+    desc="Accelerometer 3-Axis 2/4/8/16g, I2C/SPI, LGA-12 (2x2)",
     note="Original",
     value="",
     mfr="STMicroelectronics",
-    mpn="STM32H562RGT6",
-    links=[("LCSC", "https://www.lcsc.com/product-detail/C19711662.html")],
-    src_fp="LQFP64-10x10mm_STM",
-    fp="LQFP-64_10x10mm_P0.5mm",
-    fp_desc="LQFP-64, 10x10mm body, 0.5mm pitch",
+    mpn="LIS2DW12TR",
+    links=[("LCSC", "https://www.lcsc.com/product-detail/C189624.html")],
+    src_fp="LGA-12_2X2X0P7_STM",
+    fp="LGA-12_2x2mm_P0.5mm",
+    fp_desc="LGA-12, 2x2mm body, 0.5mm pitch",
+    hidden_xy=(b"-72", b"-150"),  # hidden parameter location (STM32 parts used -5,-530; small ICs -72,-150)
 )
 VENDOR_PARAMS = {b"Copyright", b"Manufacturer_Name", b"Manufacturer_Part_Number", b"Description", b"RefDes", b"Type"}
 FONT_KEYS = (b"Size", b"FontName", b"Rotation", b"Bold", b"Italic", b"Underline", b"StrikeOut")
-HIDDEN_Y = b"-530"  # parameter location used by the other MCUs in IC_Digital
 
 
 def fonts(hdr):
@@ -50,7 +50,8 @@ def param(name, text, idx, used, font=b"1"):
     p = [(b"RECORD", b"41")]
     if idx is not None:
         p.append((b"IndexInSheet", str(idx).encode()))
-    p += [(b"OwnerPartId", b"-1"), (b"Location.X", b"-5"), (b"Location.Y", HIDDEN_Y), (b"Color", b"8388608"),
+    x, y = PART["hidden_xy"]
+    p += [(b"OwnerPartId", b"-1"), (b"Location.X", x), (b"Location.Y", y), (b"Color", b"8388608"),
           (b"FontID", font), (b"IsHidden", b"T")]
     if text:
         p.append((b"Text", text.encode("cp1252")))
@@ -201,7 +202,9 @@ def add_pcblib(src, dst, out):
     recs[0][1] = b"".join(x + b"\r\n" for x in lines) + b"\x00"
     s.data = m.serialize(recs)
 
-    # embedded 3D models: append every source model (the footprint's 3D body refers to it by ID)
+    # embedded 3D models: append only the source models the copied footprint's 3D bodies refer to (by ID).
+    # Vendor files often hold one STEP copy per density variant (-L/-M); those are not needed.
+    fp_blob = b"".join(c.data or b"" for c in fp.children)
     sm = {c.name: c for c in SL["Models"].children}
     dm = {c.name: c for c in DL["Models"].children}
     s_n = struct.unpack("<I", sm["Header"].data)[0]
@@ -210,15 +213,21 @@ def add_pcblib(src, dst, out):
     d_list = m.parse(dm["Data"].data)
     assert len(s_list) == s_n and len(d_list) == d_n
     d_ids = {x for _, p in d_list for x in p.split(b"|") if x.startswith(b"ID=")}
+    added = []
     for k in range(s_n):
-        assert not ({x for x in s_list[k][1].split(b"|") if x.startswith(b"ID=")} & d_ids), "model ID clash"
+        ids = {x for x in s_list[k][1].rstrip(b"\x00").split(b"|") if x.startswith(b"ID=")}
+        if not any(i[3:] in fp_blob for i in ids):
+            continue
+        assert not (ids & d_ids), "model ID clash"
         node = sm[str(k)]
-        node.name = str(d_n + k)
+        node.name = str(d_n + len(added))
         DL["Models"].children.append(node)
-    dm["Data"].data = m.serialize(d_list + s_list)
-    dm["Header"].data = struct.pack("<I", d_n + s_n)
+        added.append(s_list[k])
+    assert added, "footprint references no embedded model"
+    dm["Data"].data = m.serialize(d_list + added)
+    dm["Header"].data = struct.pack("<I", d_n + len(added))
     cfb.write_tree(dt, os.path.join(out, os.path.basename(dst)))
-    return n + 1, d_n + s_n
+    return n + 1, d_n + len(added)
 
 
 if __name__ == "__main__":

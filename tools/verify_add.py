@@ -57,11 +57,19 @@ for k in a:
     if k not in changed:
         assert a[k] == b[k], k
 extra = {k for k in b if k not in a}
-src_fp = {k[len("/" + PART["src_fp"]):] for k in src if k.startswith("/" + PART["src_fp"])}
-s_n = struct.unpack("<I", src["/Library/Models/Header"][2])[0]
+src_root = "/" + PART["src_fp"]  # exact storage match, so density variants (-L/-M) are not included
+src_fp = {k[len(src_root):] for k in src if k == src_root or k.startswith(src_root + "/")}
+# only the embedded models the footprint's 3D bodies reference (by ID) are copied, in source order
+fp_blob = b"".join(src[k][2] or b"" for k in src if k.startswith("/" + PART["src_fp"] + "/"))
+s_list = m.parse(src["/Library/Models/Data"][2])
+used = [i for i, (_, p) in enumerate(s_list)
+        if any(x[3:] in fp_blob for x in p.rstrip(b"\x00").split(b"|") if x.startswith(b"ID="))]
+assert used, "footprint references no embedded model"
+s_n = len(used)
 assert extra == {fp + k for k in src_fp} | {f"/Library/Models/{nmod + i}" for i in range(s_n)}, extra
-for i in range(s_n):
-    assert b[f"/Library/Models/{nmod + i}"][2] == src[f"/Library/Models/{i}"][2]
+for j, i in enumerate(used):
+    assert b[f"/Library/Models/{nmod + j}"][2] == src[f"/Library/Models/{i}"][2]
+assert m.parse(b["/Library/Models/Data"][2])[nmod:] == [s_list[i] for i in used]
 for k in src_fp - {"/Data", "/Parameters"}:
     assert b[fp + k] == src["/" + PART["src_fp"] + k], k
 name, prims = pcbparse.walk(b[fp + "/Data"][2])

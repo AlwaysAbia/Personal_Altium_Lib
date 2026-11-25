@@ -31,7 +31,9 @@ python tools/add_part.py <src.SchLib> <src.PcbLib> SchLib/<Lib>.SchLib PCBLib/<L
 python tools/verify_add.py <src.SchLib> <src.PcbLib> SchLib/<Lib>.SchLib PCBLib/<Lib>.PcbLib <out_dir>
 ```
 
-`verify_add.py` checks that nothing else in either library changed. `PART` holds the last part added (STM32H562RGT6).
+Only the embedded 3D models that the copied footprint actually references are carried over, so the extra STEP copies vendor files include for their density variants (`-L` / `-M` footprints) are left out. `PART["hidden_xy"]` sets where the hidden parameters sit (`-72,-150` like the small ICs, `-5,-530` like the STM32s).
+
+`verify_add.py` checks that nothing else in either library changed. `PART` holds the last part added (LIS2DW12TR, Ultra Librarian, nominal `LGA-12_2X2X0P7_STM` footprint).
 
 ## Adding a part from an existing symbol
 
